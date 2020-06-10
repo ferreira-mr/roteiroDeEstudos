@@ -30,6 +30,7 @@
 ### Livros
 
 - [ ] [Introduction to Linear Algebra, Fifth Edition (2016)](http://math.mit.edu/~gs/linearalgebra/)
+- [X] [Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing](https://www.wiley.com/en-us/Testing+Python%3A+Applying+Unit+Testing%2C+TDD%2C+BDD+and+Acceptance+Testing-p-9781118901243)
 
 ## ENTERTERIMENTO
 
