@@ -38,9 +38,13 @@
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
 - [TED-Ed](https://www.youtube.com/user/TEDEducation)
-- [TED](https://www.youtube.com/user/TEDtalksDirector)
+- [3Bluee1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Computerphile](https://www.youtube.com/user/Computerphile)
+- [Nubermphile](https://www.youtube.com/user/numberphile)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Great Learning](https://www.youtube.com/channel/UCObs0kLIrDjX2LLSybqNaEA)
 
-### Crash Couse
+### Crash Course
 
 - [ ] [Study Hall: Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 - [ ] [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
