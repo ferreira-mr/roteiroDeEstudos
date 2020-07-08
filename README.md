@@ -2,15 +2,31 @@
 
 ## DOMINGO / QUARTA
 
+### Livros
+
+- [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
+- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+
+### Videos
+
 - [TED-Ed](https://www.youtube.com/user/TEDEducation)
 - [Nubermphile](https://www.youtube.com/user/numberphile)
 - [Study Hall: Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 
 ## SEGUNDA / QUINTA
 
+### Videos
+
 - [TED-Ed](https://www.youtube.com/user/TEDEducation)
 - [3Bluee1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+  - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
+
+### Livro
+
+### Preparar aula
+
+- [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
 
 ## TERÇA / SEXTA
 
@@ -30,6 +46,9 @@
 - [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 
 ## BACKLOG
+
+### Livros
+  [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
 
 ### CÁLCULO
 
@@ -94,7 +113,7 @@ Testing+Python%3A+Applying+Unit+Testing%2C+TDD%2C+BDD+and+Acceptance+Testing-p-9
 - [Big History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey)
 - [Ecology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX)
 - [Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
-- [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) 
+- [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ### Livros
 
