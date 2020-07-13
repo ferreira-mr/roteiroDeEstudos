@@ -18,8 +18,8 @@
 
 ### Livros
 
-- [Programming Python, 4th Edition](../livroProgrammingPython_MarkLutz/README.md)
-- [Data Science from Scratch, 2nd Edition](../livroDataScienceFromScratch_JoelGrus/README.md)
+- [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
+- [Data Science from Scratch, 2nd Edition](https://github.com/ferreiramr/livroDataScienceFromScratch_JoelGrus)
 
 ### Videos
 
