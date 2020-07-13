@@ -19,7 +19,7 @@
 ### Livros
 
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
-- [Data Science from Scratch, 2nd Edition](https://github.com/ferreiramr/livroDataScienceFromScratch_JoelGrus)
+- [Data Science from Scratch, 2nd Edition](../livroDataScienceFromScratch_JoelGrus/README.md)
 
 ### Videos
 
@@ -27,11 +27,6 @@
 - [3Bluee1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
   - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
-
-### Livro
-
-  - [Programming Python, 4th Edition -  Mark Lutz](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
-  - [Data Science from Scratch, 2nd Edition - Joel Grus](https://github.com/ferreiramr/livroDataScienceFromScratch_JoelGrus)
 
 ### Preparar aula
 
