@@ -2,6 +2,7 @@
 
 ## DOMINGO / QUARTA
 
+
 ### Livros
 
 - [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
@@ -13,16 +14,24 @@
 - [Nubermphile](https://www.youtube.com/user/numberphile)
 - [Study Hall: Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 
-## SEGUNDA / QUINTA
+## SEGUNDA / QUINTA  
+
+### Livros
+
+- [Programming Python, 4th Edition](../livroProgrammingPython_MarkLutz/README.md)
+- [Data Science from Scratch, 2nd Edition](../livroDataScienceFromScratch_JoelGrus/README.md)
 
 ### Videos
 
-- [TED-Ed](https://www.youtube.com/user/TEDEducation)
+- [TED-Ed: Before and After Einstein](https://www.youtube.com/playlist?list=PLJicmE8fK0EgnWzPUgQ4D1_oLuye0wc2Z)
 - [3Bluee1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
   - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
 
 ### Livro
+
+  - [Programming Python, 4th Edition -  Mark Lutz](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
+  - [Data Science from Scratch, 2nd Edition - Joel Grus](https://github.com/ferreiramr/livroDataScienceFromScratch_JoelGrus)
 
 ### Preparar aula
 
