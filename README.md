@@ -10,7 +10,7 @@
 
 ### Videos
 
-- [TED-Ed](https://www.youtube.com/user/TEDEducation)
+- [TED-Ed: The Big Questions](https://www.youtube.com/playlist?list=PLJicmE8fK0EiQLKEhNM8qJL8ExHwQZh_0)
 - [Nubermphile](https://www.youtube.com/user/numberphile)
 - [Study Hall: Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 
@@ -30,11 +30,11 @@
 
 ### Preparar aula
 
-- [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
+- [How to make a Video Game](https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 
 ## TERÇA / SEXTA
 
-- [TED-Ed](https://www.youtube.com/user/TEDEducation)
+- [Math of the impossible](https://www.youtube.com/playlist?list=PLJicmE8fK0Egf3KmvFBPCUyXe7LCRPym-)
 - [Computerphile](https://www.youtube.com/user/Computerphile)
 - [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr)
 
@@ -44,7 +44,7 @@
 
 ## SÁBADO
 
-- [TED-Ed](https://www.youtube.com/user/TEDEducation)
+- [Awesome Nature](https://www.youtube.com/playlist?list=PLD018AC9B25A23E16)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
 - [Organic Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4)
 - [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
