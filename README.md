@@ -26,6 +26,7 @@
 - [TED-Ed: Before and After Einstein](https://www.youtube.com/playlist?list=PLJicmE8fK0EgnWzPUgQ4D1_oLuye0wc2Z)
 - [3Bluee1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
   - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Physics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
 - [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
 
 ### Preparar aula
@@ -34,17 +35,17 @@
 
 ## TERÇA / SEXTA
 
-- [Math of the impossible](https://www.youtube.com/playlist?list=PLJicmE8fK0Egf3KmvFBPCUyXe7LCRPym-)
+- [TED-Ed: Math of the impossible](https://www.youtube.com/playlist?list=PLJicmE8fK0Egf3KmvFBPCUyXe7LCRPym-)
 - [Computerphile](https://www.youtube.com/user/Computerphile)
 - [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr)
 
 ### Livros
 
-- [Python Cookbook, 3rd Edition](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
+- [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 
 ## SÁBADO
 
-- [Awesome Nature](https://www.youtube.com/playlist?list=PLD018AC9B25A23E16)
+- [TED-Ed: Awesome Nature](https://www.youtube.com/playlist?list=PLD018AC9B25A23E16)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
 - [Organic Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4)
 - [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
