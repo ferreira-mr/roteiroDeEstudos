@@ -27,7 +27,8 @@
 - [3Bluee1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
   - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Physics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
-- [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
+- [Engineering](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO4A_tL6DLZRotxEb114cMR)
+
 
 ### Preparar aula
 
@@ -42,6 +43,7 @@
 ### Livros
 
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
+- [Pandas 1.x Cookbook](https://github.com/ferreiramr/livroPandasCookbook_MattHarrison-TheodorePetrou)
 
 ## SÁBADO
 
@@ -98,7 +100,6 @@ Testing+Python%3A+Applying+Unit+Testing%2C+TDD%2C+BDD+and+Acceptance+Testing-p-9
 
 - [ ] [Anatomy & Physiology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8)
 - [ ] [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
-- [ ] [Engineering](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO4A_tL6DLZRotxEb114cMR)
 - [ ] [Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 - [ ] [Sociology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMJ-AfB_7J1538YKWkZAnGA)
 - [ ] [European History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX)
@@ -119,6 +120,7 @@ Testing+Python%3A+Applying+Unit+Testing%2C+TDD%2C+BDD+and+Acceptance+Testing-p-9
 - [Ecology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX)
 - [Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
 - [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
 
 ### Livros
 
