@@ -10,3 +10,13 @@
 - [VTK](https://vtk.org/)
 - [ParaView](https://www.paraview.org/)
 - [VisPy](http://vispy.org/)
+
+## ORGANIZAR
+
+https://mybinder.org/
+https://qiskit.org/
+https://docs.rigetti.com/en/
+http://qutip.org/
+https://www.turing.ac.uk/
+https://jupyterhub.readthedocs.io/en/stable/#
+https://ai.googleblog.com/

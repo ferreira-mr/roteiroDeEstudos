@@ -37,6 +37,7 @@
 ## TERÇA / SEXTA
 
 - [TED-Ed: Math of the impossible](https://www.youtube.com/playlist?list=PLJicmE8fK0Egf3KmvFBPCUyXe7LCRPym-)
+- [Out of This World](https://www.youtube.com/playlist?list=PLJicmE8fK0Ejk2MO8WlaGGw7j13_fbc0A)
 - [Computerphile](https://www.youtube.com/user/Computerphile)
 - [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr)
 
