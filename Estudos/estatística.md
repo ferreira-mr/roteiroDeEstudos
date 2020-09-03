@@ -50,7 +50,7 @@ $$AmplitudeAproximada da classe = \frac{MaiorValor-MenorValor}{NúmeroDeClasse}$
 
 https://www.sharelatex.com
 
-
+https://www.tylervigen.com/spurious-correlations
 
 
 *## **ESTUDAR***

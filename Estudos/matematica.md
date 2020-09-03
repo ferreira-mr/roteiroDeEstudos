@@ -17,3 +17,6 @@ https://docs.sympy.org/latest/tutorial/simplification.html
 ## Ferramentas
 
 - [Overleaf, Online LaTeX Editor](https://www.overleaf.com/)
+
+
+https://mathsgear.co.uk/collections/games
