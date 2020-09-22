@@ -9,10 +9,8 @@
 - [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
 ### Cursos
+- [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Cálculo I - Univeps](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
-
-### Preparar aulas
-- [How to make a Video Game](https://www.youtube.com/playlist?list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
 
 ### Enterterimento
 - [TED-Ed: The Big Questions](https://www.youtube.com/playlist?list=PLJicmE8fK0EiQLKEhNM8qJL8ExHwQZh_0)
