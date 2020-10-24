@@ -17,49 +17,56 @@
 - [Nubermphile](https://www.youtube.com/user/numberphile)
 - [Study Hall: Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 
-## TERÇA
+## TERÇA / QUINTA
 
 ### Livros
-- [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
-- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
-### Enterterimento
-- [TED-Ed: Math of the impossible](https://www.youtube.com/playlist?list=PLJicmE8fK0Egf3KmvFBPCUyXe7LCRPym-)
-- [Out of This World](https://www.youtube.com/playlist?list=PLJicmE8fK0Ejk2MO8WlaGGw7j13_fbc0A)
-- [Computerphile](https://www.youtube.com/user/Computerphile)
-- [Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr)
+### Vídeo Aula
+  - [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-## QUARTA
+  - [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
-### Livros
-- [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
-- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+  - [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 
-### Enterterimento
-- [TED-Ed: Before and After Einstein](https://www.youtube.com/playlist?list=PLJicmE8fK0EgnWzPUgQ4D1_oLuye0wc2Z)
-- [Essence of calculus - 3Bluee1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Physics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
-- [Engineering](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO4A_tL6DLZRotxEb114cMR)
-
-## QUINTA
+## QUARTA / SÁBADO
 
 ### Livros
-- [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
 - [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
-## SEXTA
+## Vídeos
 
-### Livros
-- [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
-- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+- [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+
+- [Intro to Data Science](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
+
+- [Python for Data Science | Data Science with Python | Python for Data Analysis | 11 Hours Full Course](https://www.youtube.com/watch?v=edvg4eHi_Mw)
+
+-[Foundations of Data Science](https://www.youtube.com/playlist?list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
+- [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
+- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)(https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=2)]
+- [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=3)
+
+- [Data Science Hands-On Crash Course](https://www.youtube.com/watch?v=XU5pw3QRYjQ)
+
+- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8)
+
+- [Intro to Data Science - Crash Course for Beginners](https://www.youtube.com/watch?v=N6BghzuFLIg)
+
+- [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
+
+[Data Science Tutorial | Data Science for Beginners | Python for Data Science | 11 Hours Full Course](https://www.youtube.com/watch?v=u2zsY-2uZiE)
+
+[Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
+
+## Estatística
+
+[Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
+[Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY&list=PLlgLmuG_KgbaXMKcISC-fdz7HUn1oKr9i)
+
+
 
 ## SÁBADO
 
-### Enterterimento
-- [TED-Ed: Awesome Nature](https://www.youtube.com/playlist?list=PLD018AC9B25A23E16)
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
-- [Organic Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4)
-- [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 
 ## BACKLOG
 
