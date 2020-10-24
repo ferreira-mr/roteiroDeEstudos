@@ -3,13 +3,14 @@
 ## DOMINGO
 
 ## SEGUNDA
+https://ocw.mit.edu/courses/intro-programming/
 
 ### Livros
 - [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
 - [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
 ### Cursos
-- [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [MIT 6.0001 - Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Cálculo I - Univeps](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
 ### Enterterimento
@@ -17,6 +18,8 @@
 - [Nubermphile](https://www.youtube.com/user/numberphile)
 - [Study Hall: Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V
 ## TERÇA / QUINTA
 
 ### Livros
