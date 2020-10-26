@@ -1,17 +1,19 @@
 # ROADMAP DE ESTUDOS
 
 ## DOMINGO
+  - [HackerRank](https://www.hackerrank.com/dashboard)
+  - [Fundamentos da Programação de Computadores - Ascencio, De Campos](https://github.com/ferreiramr/livroFundamentosDaProgramacaoDeComputadores_Ascencio-DeCampos)
+  - [Crash Course - Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
 
-## SEGUNDA
-https://ocw.mit.edu/courses/intro-programming/
+## SEGUNDA / QUARTA
 
-### Livros
+### PYTHON
 - [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
-- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
-
-### Cursos
 - [MIT 6.0001 - Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+### CÁCULO
 - [Cálculo I - Univeps](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
+
 
 ### Enterterimento
 - [TED-Ed: The Big Questions](https://www.youtube.com/playlist?list=PLJicmE8fK0EiQLKEhNM8qJL8ExHwQZh_0)
@@ -21,6 +23,7 @@ https://ocw.mit.edu/courses/intro-programming/
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V
 ## TERÇA / QUINTA
+- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
 ### Livros
 
@@ -66,12 +69,10 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V
 [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
 [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY&list=PLlgLmuG_KgbaXMKcISC-fdz7HUn1oKr9i)
 
-
-
-## SÁBADO
-
-
 ## BACKLOG
+
+### PYTHON
+https://ocw.mit.edu/courses/intro-programming/
 
 ### Livros
 
