@@ -2,6 +2,14 @@
 
 ## ROTINAS DE ESTUDOS
 
+### CURSOS NA ALURA
+
+- [Programação](https://cursos.alura.com.br/category/programacao)
+- [Data Science](https://cursos.alura.com.br/category/data-science)
+- [Front-End](https://cursos.alura.com.br/category/front-end)
+- [Infraestrutura](https://cursos.alura.com.br/https://cursos.alura.com.br/category/infraestruturacategory/infraestrutura)
+- [Design & UX](https://cursos.alura.com.br/category/design-ux)
+
 ### DOMINGO
 
 - [HackerRank](https://www.hackerrank.com/dashboard)
@@ -32,9 +40,9 @@
 
 ### QUARTA / SÁBADO
 
-#### CIÊNCIA DE DADOS
-
 - [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+
+#### CIÊNCIA DE DADOS
 
 #### ESTATÍSTICA
 
@@ -75,18 +83,22 @@
   
 ### PROGRAMAÇÃO
 
-- [ ] [6.0001 Introduction to Computer Science and Programming in Python]()
+- [ ] [6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [ ] [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
-- [ ] [6.00SC Introduction to Computer Science and Programming]()
-- [ ] [6.S095 Programming for the Puzzled]()
-- [ ] [6.005 Elements of Software Construction]()
-- [ ] [6.006 Introduction to Algorithms]()
+- [ ] [6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
+- [ ] [6.S095 Programming for the Puzzled](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA)
+- [ ] [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [ ] [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
 
 ### DADOS
+
+#### YOUTUBE
+
+-[Sentdex](https://www.youtube.com/c/sentdex)
 
 #### LIVROS
 
@@ -95,6 +107,8 @@
 
 #### VÍDEOS
 
+- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning, IAP 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
 - [Intro to Data Science](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 - [Python for Data Science | Data Science with Python | Python for Data Analysis | 11 Hours Full Course](https://www.youtube.com/watch?v=edvg4eHi_Mw)
