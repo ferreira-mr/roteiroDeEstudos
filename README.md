@@ -2,14 +2,6 @@
 
 ## ROTINAS DE ESTUDOS
 
-### CURSOS NA ALURA
-
-- [Programação](https://cursos.alura.com.br/category/programacao)
-- [Data Science](https://cursos.alura.com.br/category/data-science)
-- [Front-End](https://cursos.alura.com.br/category/front-end)
-- [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
-- [Design & UX](https://cursos.alura.com.br/category/design-ux)
-
 ### PLAYLISTS
 
 - [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
@@ -22,8 +14,9 @@
 
 ### SEGUNDA / QUINTA
 
-#### PYTHON
+#### PROGRAMAÇÃO
 
+- [Programação](https://cursos.alura.com.br/category/programacao)
 - [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
 - [MIT 6.0001 - Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
@@ -32,6 +25,8 @@
 - [Cálculo I - Univeps](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
 ### TERÇA / SEXTA
+
+- [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
 
 #### BANCO DE DADOS
 
@@ -44,6 +39,7 @@
 
 ### QUARTA / SÁBADO
 
+- [Data Science](https://cursos.alura.com.br/category/data-science)
 - [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
 #### CIÊNCIA DE DADOS
@@ -84,7 +80,7 @@
 
 ## BACKLOG
   
-### PROGRAMAÇÃO
+### PROGRAMAÇÃO E ALGORITMOS
 
 - [ ] [6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [ ] [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
