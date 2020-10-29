@@ -7,14 +7,18 @@
 - [Programação](https://cursos.alura.com.br/category/programacao)
 - [Data Science](https://cursos.alura.com.br/category/data-science)
 - [Front-End](https://cursos.alura.com.br/category/front-end)
-- [Infraestrutura](https://cursos.alura.com.br/https://cursos.alura.com.br/category/infraestruturacategory/infraestrutura)
+- [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
 - [Design & UX](https://cursos.alura.com.br/category/design-ux)
+
+### PLAYLISTS
+
+- [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
+- [Crash Course Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 
 ### DOMINGO
 
 - [HackerRank](https://www.hackerrank.com/dashboard)
 - [Fundamentos da Programação de Computadores - Ascencio, De Campos](https://github.com/ferreiramr/livroFundamentosDaProgramacaoDeComputadores_Ascencio-DeCampos)
-- [Crash Course - Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
 
 ### SEGUNDA / QUINTA
 
@@ -59,7 +63,6 @@
 ### PLAYLISTS NO YOUTUBE
 
 - [ ] [Divulgação Científica em Novas Mídias](https://www.youtube.com/playlist?list=PLl622ADkTdTNUnKnWwtdRSLtADXc4LKhw)
-- [ ] [Study Hall: Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 - [ ] [Anatomy & Physiology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8)
 - [ ] [World History](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
 - [ ] [Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
