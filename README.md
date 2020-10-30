@@ -22,7 +22,8 @@
 
 #### CÁLCULO
 
-- [Cálculo I - Univeps](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
+- [ ] [Cálculo I - Univeps](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
+- [ ] [Calculus I  - Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
 
 ### TERÇA / SEXTA
 
@@ -30,19 +31,27 @@
 
 #### BANCO DE DADOS
 
+- [Database System Concepts, 7th - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan](https://github.com/ferreiramr/livroDatabaseSystemConcepts_AbrahamSilberschatz)
 - [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 #### ÁLGEBRA LINEAR
 
-- [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
-- [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [ ] [Álgebra Linear - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
+- [ ] [Álgebra Linear UFRJ 2018](https://www.youtube.com/playlist?list=PLsVKfJEcnnr1VjFhhD4btJip_dQ5pI81n)
+- [ ] [Álgebra Linear IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSE0DFoq4es_iMvjlCeG8pP)
+- [ ] [Linear Algebra - Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+- [ ] [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+- [ ] [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+- [ ] [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [ ] [Linear Algebra - Steve Brunton](https://www.youtube.com/watch?v=aHCyHbRIz44&list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O)
 
 ### QUARTA / SÁBADO
 
 - [Data Science](https://cursos.alura.com.br/category/data-science)
-- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
 #### CIÊNCIA DE DADOS
+- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 
 #### ESTATÍSTICA
 
@@ -79,6 +88,10 @@
 - [x] [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)
 
 ## BACKLOG
+
+### METODOLOGIA CIENTÍFICA
+
+- [ ] [20.219 Becoming the Next Bill Nye: Writing and Hosting the Educational Show, IAP 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP61PvFQDWp8FW_1iMgBf6LCY)
   
 ### PROGRAMAÇÃO E ALGORITMOS
 
@@ -94,6 +107,8 @@
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
 
 ### DADOS
+
+- [Processamento de Imagens, Laboratório - IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQcBos0a0olX9BPxdgmDqKJ)
 
 #### YOUTUBE
 
@@ -121,6 +136,7 @@
 - [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 - [Data Science Tutorial | Data Science for Beginners | Python for Data Science | 11 Hours Full Course](https://www.youtube.com/watch?v=u2zsY-2uZiE)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
+- [MIT 6.S897 Machine Learning for Healthcare, Spring 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
 ### MATEMÁTICA
 
