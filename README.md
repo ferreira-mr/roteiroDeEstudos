@@ -2,10 +2,12 @@
 
 ## ROTINAS DE ESTUDOS
 
-### PLAYLISTS
+### VÍDEOS DIVERSOS
 
 - [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
 - [Crash Course Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
+- [TED-Ed](https://www.youtube.com/teded/videos?view=0&sort=dd&flow=grid)
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
 
 ### DOMINGO
 
@@ -27,7 +29,10 @@
 
 ### TERÇA / SEXTA
 
+#### CURSO ALURA
+
 - [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
+- [Inovação & Gestão](https://cursos.alura.com.br/category/inovacao-gestao)
 
 #### BANCO DE DADOS
 
@@ -37,10 +42,17 @@
 #### ÁLGEBRA LINEAR
 
 - [ ] [Álgebra Linear - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
+- [ ] [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+
+#### BACKLOG
+
+##### BANCO DE DADOS
+
+##### ÁLGEBRA LINEAR
+
 - [ ] [Álgebra Linear UFRJ 2018](https://www.youtube.com/playlist?list=PLsVKfJEcnnr1VjFhhD4btJip_dQ5pI81n)
 - [ ] [Álgebra Linear IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSE0DFoq4es_iMvjlCeG8pP)
 - [ ] [Linear Algebra - Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
-- [ ] [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [ ] [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [ ] [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 - [ ] [Linear Algebra - Steve Brunton](https://www.youtube.com/watch?v=aHCyHbRIz44&list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O)
@@ -50,6 +62,7 @@
 - [Data Science](https://cursos.alura.com.br/category/data-science)
 
 #### CIÊNCIA DE DADOS
+
 - [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 - [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 
@@ -59,8 +72,7 @@
 
 ### CANAIS NO YOUTUBE
 
-- [TED-Ed](https://www.youtube.com/teded/videos?view=0&sort=dd&flow=grid)
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
+
 - [Nubermphile](https://www.youtube.com/user/numberphile)
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Great Learning](https://www.youtube.com/channel/UCObs0kLIrDjX2LLSybqNaEA)
