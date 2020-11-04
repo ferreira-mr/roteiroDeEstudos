@@ -16,9 +16,11 @@
 
 ### SEGUNDA / QUINTA
 
+- [Programação](https://cursos.alura.com.br/category/programacao)
+- [Front-end](https://cursos.alura.com.br/category/front-end)
+
 #### PROGRAMAÇÃO
 
-- [Programação](https://cursos.alura.com.br/category/programacao)
 - [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
 - [MIT 6.0001 - Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
@@ -32,7 +34,7 @@
 #### CURSO ALURA
 
 - [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
-- [Inovação & Gestão](https://cursos.alura.com.br/category/inovacao-gestao)
+- [Design & UX](https://cursos.alura.com.br/category/design-ux)
 
 #### BANCO DE DADOS
 
@@ -43,6 +45,16 @@
 
 - [ ] [Álgebra Linear - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 - [ ] [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+
+### QUARTA / SÁBADO
+
+- [Data Science](https://cursos.alura.com.br/category/data-science)
+- [Inovação & Gestão](https://cursos.alura.com.br/category/inovacao-gestao)
+
+#### CIÊNCIA DE DADOS
+
+- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 
 #### BACKLOG
 
@@ -56,15 +68,6 @@
 - [ ] [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [ ] [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 - [ ] [Linear Algebra - Steve Brunton](https://www.youtube.com/watch?v=aHCyHbRIz44&list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O)
-
-### QUARTA / SÁBADO
-
-- [Data Science](https://cursos.alura.com.br/category/data-science)
-
-#### CIÊNCIA DE DADOS
-
-- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
-- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 
 #### ESTATÍSTICA
 
