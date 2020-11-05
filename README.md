@@ -8,6 +8,7 @@
 - [Crash Course Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
 - [TED-Ed](https://www.youtube.com/teded/videos?view=0&sort=dd&flow=grid)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
+- [Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c)
 
 ### DOMINGO
 
