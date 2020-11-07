@@ -34,7 +34,7 @@
 
 #### CURSO ALURA
 
-- [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
+- [Data Science](https://cursos.alura.com.br/category/data-science)
 - [Design & UX](https://cursos.alura.com.br/category/design-ux)
 
 #### BANCO DE DADOS
@@ -49,7 +49,7 @@
 
 ### QUARTA / SÁBADO
 
-- [Data Science](https://cursos.alura.com.br/category/data-science)
+- [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
 - [Inovação & Gestão](https://cursos.alura.com.br/category/inovacao-gestao)
 
 #### CIÊNCIA DE DADOS
