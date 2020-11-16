@@ -4,11 +4,13 @@
 
 ### VÍDEOS DIVERSOS
 
-- [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
-- [Crash Course Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
-- [TED-Ed](https://www.youtube.com/teded/videos?view=0&sort=dd&flow=grid)
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
-- [Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c)
+- [ ][Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
+- [ ][Study Hall: Data Literacy](https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt)
+- [ ][TED-Ed](https://www.youtube.com/teded/videos?view=0&sort=dd&flow=grid)
+- [ ][Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
+- [ ][Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c)
+- [X][Crash Course Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
+- [ ][Alura Cursos Online](https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw)
 
 ### DOMINGO
 
@@ -37,10 +39,10 @@
 - [Data Science](https://cursos.alura.com.br/category/data-science)
 - [Design & UX](https://cursos.alura.com.br/category/design-ux)
 
-#### BANCO DE DADOS
+#### CIÊNCIA DE DADOS
 
-- [Database System Concepts, 7th - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan](https://github.com/ferreiramr/livroDatabaseSystemConcepts_AbrahamSilberschatz)
-- [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 
 #### ÁLGEBRA LINEAR
 
@@ -52,10 +54,10 @@
 - [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura)
 - [Inovação & Gestão](https://cursos.alura.com.br/category/inovacao-gestao)
 
-#### CIÊNCIA DE DADOS
+#### BANCO DE DADOS
 
-- [Python for Data Analysis, 2nd Edition - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
-- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
+- [Database System Concepts, 7th - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan](https://github.com/ferreiramr/livroDatabaseSystemConcepts_AbrahamSilberschatz)
+- [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 #### BACKLOG
 
@@ -140,7 +142,6 @@
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning, IAP 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
-- [Intro to Data Science](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 - [Python for Data Science | Data Science with Python | Python for Data Analysis | 11 Hours Full Course](https://www.youtube.com/watch?v=edvg4eHi_Mw)
 - [Foundations of Data Science](https://www.youtube.com/playlist?list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
