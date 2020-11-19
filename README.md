@@ -14,8 +14,7 @@
 
 ### DOMINGO
 
-- [HackerRank](https://www.hackerrank.com/dashboard)
-- [Fundamentos da Programação de Computadores - Ascencio, De Campos](https://github.com/ferreiramr/livroFundamentosDaProgramacaoDeComputadores_Ascencio-DeCampos)
+- [Graduação em Matemática na Unip](https://ava.ead.unip.br/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_25_1)
 
 ### SEGUNDA / QUINTA
 
@@ -128,6 +127,8 @@
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
+- [HackerRank](https://www.hackerrank.com/dashboard)
+- [Fundamentos da Programação de Computadores - Ascencio, De Campos](https://github.com/ferreiramr/livroFundamentosDaProgramacaoDeComputadores_Ascencio-DeCampos)
 
 ### DADOS
 
