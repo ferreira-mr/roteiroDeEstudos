@@ -35,8 +35,14 @@
 
 #### CURSO ALURA
 
-- [Data Science](https://cursos.alura.com.br/category/data-science)
-- [Design & UX](https://cursos.alura.com.br/category/design-ux)
+- [Data Science](https://cursos.alura.com.br/category/data-science#data-science)
+- [Design & UX](https://cursos.alura.com.br/category/design-ux#ux)
+
+
+#### GRADUAÇÃO EM MATEMÁTICA
+
+- [Práticas de Leitura e Escrita Acadêmicas | Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ)
+- [Tópicos de Epistemologia e Didática | Aulas USP](https://www.youtube.com/watch?v=YqbAHG3Fs44&list=PLAudUnJeNg4tTpuOqi-_2qs4LmZ1DJUXK)
 
 #### CIÊNCIA DE DADOS
 
@@ -76,7 +82,7 @@
 - [ ] [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) X
 - [ ] [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) X
 - [ ] [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) X
-- [ ] [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+- [ ] [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) X
 
 ## ENTERTERIMENTO
 
