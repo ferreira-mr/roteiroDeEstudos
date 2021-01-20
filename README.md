@@ -1,27 +1,25 @@
 # ROADMAP DE ESTUDOS
 
-## CIÊNCIA DA COMPUTAÇÃO
-
-### PYTHON
+## ESTUDANDO
 
 - [Learning Python, 5th Edition - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
 - [MIT 6.0001 - Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Alura - Programação](https://cursos.alura.com.br/category/programacao)
+- [Alura - Data Science](https://cursos.alura.com.br/category/data-science#data-science)
 
-### SQL
+## PRIORIZADO
 
 - [Database System Concepts, 7th - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan](https://github.com/ferreiramr/livroDatabaseSystemConcepts_AbrahamSilberschatz)
 - [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
-
-## MATEMÁTICA
 
 ### CÁLCULO
 
 - [Cálculo I - Univesp](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 - [Calculus I  - Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
+- [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### ÁLGEBRA LINEAR
 
-- [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Álgebra Linear - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 - [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 
@@ -39,9 +37,7 @@
 
 ## ALURA
 
-- [Programação](https://cursos.alura.com.br/category/programacao)
 - [Front-end](https://cursos.alura.com.br/category/front-end)
-- [Data Science](https://cursos.alura.com.br/category/data-science#data-science)
 - [Design & UX](https://cursos.alura.com.br/category/design-ux#ux)
 - [Infraestrutura](https://cursos.alura.com.br/category/infraestrutura#seguranca)
 - [Inovação & Gestão](https://cursos.alura.com.br/category/inovacao-gestao#gestao-estrategica)
@@ -49,6 +45,29 @@
 ## PREPARAR AULAS
 
 - [HTML / CSS - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+
+## NÃO PRIORIZADO
+
+### BIBLIOTECAS
+
+- Pandas
+- Numpy
+- Scikit-Learn
+- OpenCV
+- Scitki-Image
+- Searbon
+
+## FINALIZADO
+
+## SQL
+
+
+
+### CÁLCULO
+
+
+
+
 
 ## ENTERTERIMENTO
 
