@@ -52,17 +52,11 @@
   
 ## PROGRAMAÇÃO E ALGORITMOS
 
-- [ ] [6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
-- [ ] [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
-- [ ] [6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
-- [ ] [6.S095 Programming for the Puzzled](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA)
-- [ ] [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
-- [ ] [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
-- [HackerRank](https://www.hackerrank.com/dashboard)
-- [Fundamentos da Programação de Computadores - Ascencio, De Campos](https://github.com/ferreiramr/livroFundamentosDaProgramacaoDeComputadores_Ascencio-DeCampos)
+
+
 
 ## CIÊNCIA DE DADOS
 
@@ -82,6 +76,15 @@
 - [Data Science Tutorial | Data Science for Beginners | Python for Data Science | 11 Hours Full Course](https://www.youtube.com/watch?v=u2zsY-2uZiE)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
 - [MIT 6.S897 Machine Learning for Healthcare, Spring 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
+
+### BIBLIOTECAS
+
+- Pandas
+- Numpy
+- Scikit-Learn
+- OpenCV
+- Scitki-Image
+- Searbon
 
 ## LIVROS
 
