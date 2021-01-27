@@ -34,10 +34,28 @@
 
 - [Programação](https://cursos.alura.com.br/category/programacao)
 
+#### Enterterimento
+
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
+- [Study Hall: Data Literacy](https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt)
+
 ## PRIORIZADO
 
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Data Science from Scratch, 2nd Edition](#)
+
+## FINALIZADOS
+
+- [MIT 6.0001 - Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Crash Course - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Crash Course - Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
+- [Crash Course - Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
+- [Crash Course - History of Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng)
+- [Crash Course - Navigating Digital Information](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCHTzU)
+- [Crash Course - Big History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey)
+- [Crash Course - Ecology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX)
+- [Crash Course - Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)  
+- [Crash Course - Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
 
 ## BACKLOG
 
@@ -47,6 +65,7 @@
 
 ##### CURSOS ONLINE
 
+- [MIT 6.042J Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [MIT 6.854J / 18.415J Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
@@ -181,18 +200,3 @@
 
 - [20.219 Becoming the Next Bill Nye: Writing and Hosting the Educational Show, IAP 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP61PvFQDWp8FW_1iMgBf6LCY)
   
-## FINALIZADOS
-
-- [Study Hall: Data Literacy](https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt)
-- [TED-Ed](https://www.youtube.com/teded/videos?view=0&sort=dd&flow=grid)
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
-- [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
-- [Crash Course Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
-- [History of Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng)
-- [Navigating Digital Information](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCHTzU)
-- [Big History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey)
-- [Ecology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX)
-- [Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
-- [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)  
-- [Introduction to Computer Science and Programming in Python - MIT 6.0001](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
