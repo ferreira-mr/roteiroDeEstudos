@@ -2,50 +2,67 @@
 
 ## ESTUDANDO
 
-### SEGUNDA / QUARTA / SEXTA
+### LIVROS
 
-#### Livros
+#### SEGUNDA / QUINTA
 
 - [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
 - [Python for Data Analysis Data - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
 
-#### Cursos online
-
-- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
-- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
-
-#### Alura
-
-- [Data Science](https://cursos.alura.com.br/category/data-science#data-science)
-
-### DOMINGO / TERÇA / QUINTA
-
-#### Livros
+#### TERÇA / SEXTA
 
 - [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 - [Pre-Calculo](#)
 
-#### Cursos online
+#### QUARTA
 
-- [SQL Tutorial For Beginners - Great Learning](https://www.youtube.com/watch?v=46bXJ55wNjQ)
-- [HTML / CSS - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+- [Practical Statistics for Data Scientists, 2nd Edition - INSERIR AUTOR](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [Introduction to Algorithms, 3nd - Thomas H. Cormen](https://github.com/ferreiramr/livroIntroductionToAlgorithms_ThomasCormen)
 
-#### Alura
+### CRUSOS ONLINE
+
+#### SEGUNDA / TERÇA / QUARTA / QUINTA / SEXTA
+
+- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
+
+### ALURA
+
+#### SEGUNDA / QUINTA
+
+- [Data Science](https://cursos.alura.com.br/category/data-science#data-science)
+
+
+#### TERÇA / QUINTA
 
 - [Programação](https://cursos.alura.com.br/category/programacao)
 
-#### Enterterimento
+### ENTERNERIMENTO
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
 - [Study Hall: Data Literacy](https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt)
 
 ## PRIORIZADO
 
+### LIVROS
+
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Data Science from Scratch, 2nd Edition](#)
 
+### CURSOS ONLINE
+
+- [MIT 6.042J Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+- [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+- [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+- [MIT 6.854J / 18.415J Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
+- [MIT 6.S095 Programming for the Puzzled](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA)
+
 ## FINALIZADOS
 
+- [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [SQL Tutorial For Beginners - Great Learning](https://www.youtube.com/watch?v=46bXJ55wNjQ)
 - [MIT 6.0001 - Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Crash Course - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Crash Course - Study Hall Algebra](https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6)
@@ -65,20 +82,16 @@
 
 ##### CURSOS ONLINE
 
-- [MIT 6.042J Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
-- [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
-- [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-- [MIT 6.854J / 18.415J Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
-- [MIT 6.S095 Programming for the Puzzled](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA)
 - [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
-- [MIT 6.004 Computation Structures, Spring 2017](https://www.youtube.com/watch?v=R0tFDXBZvKI&list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
+- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
 #### Python
 
 - [Impractical Python Projects](https://www.oreilly.com/library/view/impractical-python-projects/9781492069454/)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
+- [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)
+
 
 - [Referências](https://www.oreilly.com/search/?query=python&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&formats=book&publishers=No%20Starch%20Press&publishers=O%27Reilly%20Media%2C%20Inc.&topics=Python&sort=relevance&facet_json=true&page=0&include_facets=false&include_scenarios=true&include_sandboxes=true&json_facets=true&average_rating__gte=4.5)
 
@@ -88,6 +101,9 @@
 - [SQL for Data Analysis -  Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 - [Practical SQL - Anthony DeBarros](https://www.oreilly.com/library/view/practical-sql/9781492067580/)
 - [SQL Pocket Guide, 4th Edition - Alice Zhao](https://www.oreilly.com/library/view/sql-pocket-guide/9781492090397/)
+- [High Performance MySQL, 4th Edition](https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/)
+
+[Referências](https://www.oreilly.com/search/?query=sql&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&formats=book&publishers=O%27Reilly%20Media%2C%20Inc.&sort=relevance&facet_json=true&page=0&include_facets=false&include_scenarios=true&include_sandboxes=true&json_facets=true&average_rating__gte=3.5) 
 
 ### CIÊNCIA DE DADOS
 
