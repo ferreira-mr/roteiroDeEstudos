@@ -12,19 +12,23 @@
 #### TERÇA / SEXTA
 
 - [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
-- [Pre-Calculo](#)
+- [PreCalculo - James Stewart](https://github.com/ferreiramr/livroPreCalculus_JamesStewart)
 
 #### QUARTA
 
 - [Practical Statistics for Data Scientists, 2nd Edition - INSERIR AUTOR](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
 - [Introduction to Algorithms, 3nd - Thomas H. Cormen](https://github.com/ferreiramr/livroIntroductionToAlgorithms_ThomasCormen)
 
-### CRUSOS ONLINE
+### CURSOS ONLINE
 
-#### SEGUNDA / TERÇA / QUARTA / QUINTA / SEXTA
+#### SEGUNDA / TERÇA / QUINTA / SEXTA
 
 - [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
 - [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
+
+#### QUARTA
+
+- [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
 
 ### ALURA
 
@@ -33,7 +37,7 @@
 - [Data Science](https://cursos.alura.com.br/category/data-science#data-science)
 
 
-#### TERÇA / QUINTA
+#### TERÇA / SEXTA
 
 - [Programação](https://cursos.alura.com.br/category/programacao)
 
