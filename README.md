@@ -19,7 +19,7 @@
 - [Practical Statistics for Data Scientists, 2nd Edition - INSERIR AUTOR](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
 - [Introduction to Algorithms, 3nd - Thomas H. Cormen](https://github.com/ferreiramr/livroIntroductionToAlgorithms_ThomasCormen)
 
-### CRUSOS ONLINE
+### CURSOS ONLINE
 
 #### SEGUNDA / TERÇA / QUARTA / QUINTA / SEXTA
 
@@ -33,7 +33,7 @@
 - [Data Science](https://cursos.alura.com.br/category/data-science#data-science)
 
 
-#### TERÇA / QUINTA
+#### TERÇA / SEXTA
 
 - [Programação](https://cursos.alura.com.br/category/programacao)
 
@@ -48,6 +48,7 @@
 
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Data Science from Scratch, 2nd Edition](#)
+- [High Performance MySQL, 4th Edition](https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/)
 
 ### CURSOS ONLINE
 
@@ -57,6 +58,11 @@
 - [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [MIT 6.854J / 18.415J Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 - [MIT 6.S095 Programming for the Puzzled](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA)
+- [MIT 6.033 Computer System Engineering](https://www.youtube.com/playlist?list=PL6535748F59DCA484)
+- [MIT 6.172 Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [MIT 6.004 Computation Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
+- [6.828 Operating System Engineering](#)
+- [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
 ## FINALIZADOS
 
