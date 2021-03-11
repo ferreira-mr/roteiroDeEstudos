@@ -2,60 +2,50 @@
 
 ## ESTUDANDO
 
-### LIVROS
+### CIÊNCIA DA COMPUTAÇÃO
 
-#### SEGUNDA / QUINTA
+- [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz) - *Domingo / Quarta*
+- [Introduction to Algorithms, 3nd - Thomas H. Cormen](https://github.com/ferreiramr/livroIntroductionToAlgorithms_ThomasCormen) - *Segunda*
+- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) - *Doming / Segunda*
 
-- [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz)
-- [Python for Data Analysis Data - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney)
+### BUSINESS INTELLIGENCE
 
-#### TERÇA / SEXTA
+- [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) - *Segunda / Quinta*
+- [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
-- [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
-- [PreCalculo - James Stewart](https://github.com/ferreiramr/livroPreCalculus_JamesStewart)
+### CIÊNCIA DE DADOS
 
-#### QUARTA
+- [Python for Data Analysis Data - Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney) - *Terça / Sexta*
 
-- [Practical Statistics for Data Scientists, 2nd Edition - INSERIR AUTOR](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
-- [Introduction to Algorithms, 3nd - Thomas H. Cormen](https://github.com/ferreiramr/livroIntroductionToAlgorithms_ThomasCormen)
+### ALURA 
 
-### CURSOS ONLINE
+- [Data Science](https://cursos.alura.com.br/category/data-science#data-science) - *Terça / Quinta*
+- [Programação](https://cursos.alura.com.br/category/programacao) - *Quarta / Sexta*
 
-#### SEGUNDA / TERÇA / QUINTA / SEXTA
-
-- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
-- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
-
-#### QUARTA
-
-- [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
-
-### ALURA
-
-#### SEGUNDA / QUINTA
-
-- [Data Science](https://cursos.alura.com.br/category/data-science#data-science)
-
-
-#### TERÇA / SEXTA
-
-- [Programação](https://cursos.alura.com.br/category/programacao)
-
-### ENTERNERIMENTO
+## ENTERNERIMENTO
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
 - [Study Hall: Data Literacy](https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt)
 
 ## PRIORIZADO
 
-### LIVROS
-
+### CIÊNCIA DA COMPUTAÇÃO
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
-- [Data Science from Scratch, 2nd Edition](#)
+
+### BUSINESS INTELLIGENCE
 - [High Performance MySQL, 4th Edition](https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/)
+
+### CIÊNCIA DE DADOS
+- [Practical Statistics for Data Scientists, 2nd Edition - INSERIR AUTOR](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
+- [Data Science from Scratch, 2nd Edition](#)
+
+#### MATEMÁTICA
+- [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
 
 ### CURSOS ONLINE
 
+- [MIT 6.001x](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 - [MIT 6.042J Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 - [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -84,29 +74,23 @@
 - [Crash Course - Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY)  
 - [Crash Course - Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
 
-## BACKLOG
+## NÃO PRIORIZADO
 
 ### CIÊNCIA DA COMPUTAÇÃO
 
-#### ALGORITMOS
-
-##### CURSOS ONLINE
-
 - [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
-
-#### Python
-
 - [Impractical Python Projects](https://www.oreilly.com/library/view/impractical-python-projects/9781492069454/)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
 - [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)
-
-
 - [Referências](https://www.oreilly.com/search/?query=python&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&formats=book&publishers=No%20Starch%20Press&publishers=O%27Reilly%20Media%2C%20Inc.&topics=Python&sort=relevance&facet_json=true&page=0&include_facets=false&include_scenarios=true&include_sandboxes=true&json_facets=true&average_rating__gte=4.5)
 
-#### BANCO DE DADOS
+### BUSINESS INTELLIGENCE
 
+- [Hardware Accelerated Database Lectures (Fall 2018)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbjOyrcqgE6_lCV6xvzffSN)
+- [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
+- [15-721 Advanced Database Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 - [SQL Cookbook, 2nd Edition - Anthony Molinaro, Robert de Graaf](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
 - [SQL for Data Analysis -  Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 - [Practical SQL - Anthony DeBarros](https://www.oreilly.com/library/view/practical-sql/9781492067580/)
@@ -116,6 +100,8 @@
 [Referências](https://www.oreilly.com/search/?query=sql&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&formats=book&publishers=O%27Reilly%20Media%2C%20Inc.&sort=relevance&facet_json=true&page=0&include_facets=false&include_scenarios=true&include_sandboxes=true&json_facets=true&average_rating__gte=3.5) 
 
 ### CIÊNCIA DE DADOS
+
+- [Pandas 1.x Cookbook](#)
 
 #### CURSOS ONLINE
 
@@ -141,9 +127,6 @@
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
 - [MIT 6.S897 Machine Learning for Healthcare, Spring 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 
-#### LIVROS
-
-- [Pandas 1.x Cookbook](#)
 
 ### MATEMÁTICA
 
@@ -158,8 +141,6 @@
 - [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
 
 #### ÁLGEBRA LINEAR
-
-##### CURSOS ONLINE
 
 - [Álgebra Linear - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 - [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
@@ -176,9 +157,6 @@
 - [MIT A 2020 Vision of Linear Algebra, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 - [Álgebra Linear - Univesp 2018](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr)
-
-##### LIVROS
-
 - [Introduction to Linear Algebra, Fifth Edition (2016)](http://math.mit.edu/~gs/linearalgebra/)
 
 #### ESTATÍSTICA
