@@ -87,7 +87,8 @@
 - [Referências](https://www.oreilly.com/search/?query=python&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&formats=book&publishers=No%20Starch%20Press&publishers=O%27Reilly%20Media%2C%20Inc.&topics=Python&sort=relevance&facet_json=true&page=0&include_facets=false&include_scenarios=true&include_sandboxes=true&json_facets=true&average_rating__gte=4.5)
 
 ### BUSINESS INTELLIGENCE
-
+- [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 1](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+- [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2](https://www.youtube.com/watch?v=lxEdaElkQhQ)
 - [Hardware Accelerated Database Lectures (Fall 2018)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbjOyrcqgE6_lCV6xvzffSN)
 - [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 - [15-721 Advanced Database Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
