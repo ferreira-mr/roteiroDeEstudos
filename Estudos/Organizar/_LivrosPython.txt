@@ -1,0 +1,43 @@
+##################################################################
+
+BAIXAR TUDO: http://www.deeplearningitalia.com/en/references/
+
+
+http://uu.diva-portal.org/smash/search.jsf?dswid=-8915
+https://dl.acm.org - 47 papers
+http://www.kdd.org/
+http://www.zhanjunlang.com/
+
+
+Effective Computation in Physics: Field Guide to Research with Python 
+Think Stats: Exploratory Data Analysis
+Python Playground: Geeky Projects for the Curious Programmer
+Making Games with Python and Pygame
+Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python
+
+Practical Programming: An Introduction to Computer Science Using Python 3
+
+Elegant SciPy: The Art of Scientific Python
+Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming
+
+Learning Concurrency in Python: Build highly efficient, robust, and concurrent applications
+A Student's Guide to Python for Physical Modeling
+Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript 
+SciPy Recipes: A cookbook with over 110 proven recipes for performing mathematical and scientific computations
+Python: The Ultimate Beginners Guide: Start Coding Today
+Neural Network Programming with Python
+OK - Programming Computer Vision with Python: Tools and algorithms for analyzing images
+Introduction to Machine Learning with Python: A Guide for Data Scientists
+Deep Learning with Python 
+Flask Web Development: Developing Web Applications with Python 
+Machine Learning Algorithms & Markov Models Supervised And Unsupervised Learning with Python & Data Science 2 Manuscripts in 1 Book
+Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python
+
+Coding Games in Scratch
+High Performance Python: Practical Performant Programming for Humans
+Cloud Native Python: Build and deploy resilent applications on the cloud using microservices, AWS, Azure and more
+Python: Real World Machine Learning
+Learning Python Application Development
+UNIX: The Complete Reference, Second Edition (Complete Reference Series)
+Python Essential Reference
+Learning Julia: Build high-performance applications for scientific computing

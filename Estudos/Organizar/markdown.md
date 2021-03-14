@@ -1,0 +1,2 @@
+Pandomic
+Hynspell

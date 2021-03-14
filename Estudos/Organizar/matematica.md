@@ -1,22 +1,23 @@
-## Backlog
+# **MATEMÁTICA**
 
-https://www.youtube.com/watch?v=I_Df_mx8Hxo
-https://docs.sympy.org/latest/tutorial/simplification.html
+- [ ] [Algebra II - Khan Academy](https://www.khanacademy.org/mission/algebra2)
+- [ ] [Precalculus - Khan Academy](https://www.khanacademy.org/mission/precalculus)
+- [ ] [Calculo](calculo.md)
+- [ ] [Álgebra Linear][algebraLinear.md]
+- [ ] [Matemática Discreta](matematica_Discreta.md)
+- [ ] [Estatística](estatistica.md)
 
-## Canais no YouTube
+## Livros
 
-[3Blue1Brown - YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-[Instituto de Matemática Pura e Aplicada - YouTube](https://www.youtube.com/user/impabr/playlists?view=50&sort=dd&shelf_id=8)
+- [ ] Fundamentos de Matemática Elementar
+- [ ] C++ for Mathematicians: An Introduction for Students and Professionals - Edward Scheinerman
 
-## Referências
+## Site
 
-[Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Main_Page)
-[European Mathematical Society](https://euro-math-soc.eu/)
-[IMPA - Instituto de Matemática Pura e Aplicada](https://impa.br/)
-
-## Ferramentas
-
-- [Overleaf, Online LaTeX Editor](https://www.overleaf.com/)
+- [Chegg](https://www.chegg.com/)
+- [Albegra I - MIT OC](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse)]
+- [Brilliant](https://brilliant.org/)
+- [Encyclopedia  of Math](encyclopediaofmath.org)
 
 
-https://mathsgear.co.uk/collections/games
+Logica Fuzzy

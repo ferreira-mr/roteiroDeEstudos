@@ -1,0 +1,8 @@
+# Sugestões de Leitura
+#Estudos/DataScience
+
+- [The Universal History of Computing: From the Abacus to the Quantum Computer  - Georges Ifrah](https://www.amazon.com/Universal-History-Computing-Quantum-Computer/dp/0471441473)
+- [What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry - John Markoff](https://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769/ref=sr_1_1?crid=2MUBCP0W4GO5F&keywords=what+the+doormouse+said&qid=1567362456&s=books&sprefix=what+the+door%2Cstripbooks-intl-ship%2C255&sr=1-1)
+- [A Joosr Guide to… Chaos Monkeys by Antonio García Martínez: Obscene Fortune and Random Failure in Silicon Valley - Joosr](https://www.amazon.com/Joosr-Monkeys-Antonio-Garc%C3%ADa-Mart%C3%ADnez-ebook/dp/B01MY0XDJL/ref=sr_1_4?crid=TSRV9T4DMM7I&keywords=chaos+monkeys+obscene+fortune+and+random+failure+in+silicon+valley&qid=1567362516&s=books&sprefix=chaos+mo%2Cstripbooks-intl-ship%2C270&sr=1-4)
+- [ Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy -Cathy O’Neil](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?crid=1DWTDKGRK54IW&keywords=weapon+of+math+destruction&qid=1567362589&s=books&sprefix=weapon+of+ma%2Cstripbooks-intl-ship%2C289&sr=1-1)
+- [We, Robots: Staying Human in the Age of Big Data - Curtis White](https://www.amazon.com/We-Robots-Staying-Human-Data/dp/1612196101/ref=sr_1_1?keywords=we+robots+staying&qid=1567362764&s=gateway&sr=8-1)
