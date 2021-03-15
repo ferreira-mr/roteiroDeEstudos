@@ -78,13 +78,22 @@
 
 ### CIÊNCIA DA COMPUTAÇÃO
 
+- [	Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](#)
+- [	Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data to extract key insights](#)
+- [	Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data to extract key insights](#C)
+
 - [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [Impractical Python Projects](https://www.oreilly.com/library/view/impractical-python-projects/9781492069454/)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
 - [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)
+- [Python One-Liners](https://www.oreilly.com/library/view/python-one-liners/9781098122676/)
+- [Python Crash Course, 2nd Edition](https://www.oreilly.com/library/view/python-crash-course/9781492071266/)
+- [https://www.oreilly.com/library/view/automate-the-boring/9781457189906/](https://www.oreilly.com/library/view/automate-the-boring/9781457189906/)
 - [Referências](https://www.oreilly.com/search/?query=python&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=user&formats=book&publishers=No%20Starch%20Press&publishers=O%27Reilly%20Media%2C%20Inc.&topics=Python&sort=relevance&facet_json=true&page=0&include_facets=false&include_scenarios=true&include_sandboxes=true&json_facets=true&average_rating__gte=4.5)
+
+
 
 ### BUSINESS INTELLIGENCE
 - [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 1](https://www.youtube.com/watch?v=4cWkVbC2bNE)
@@ -103,6 +112,8 @@
 ### CIÊNCIA DE DADOS
 
 - [Pandas 1.x Cookbook](#)
+- [Deep Learning from Scratch](https://www.oreilly.com/library/view/deep-learning-from/9781492041405/)
+- [Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
 #### CURSOS ONLINE
 
