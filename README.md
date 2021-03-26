@@ -34,8 +34,12 @@
 
 ### CIÊNCIA DA COMPUTAÇÃO
 
+- [Deep Learning from Scratch](https://www.oreilly.com/library/view/deep-learning-from/9781492041405/)
+- [Robust Python](https://www.oreilly.com/library/view/robust-python/9781098100650/)
+- [Introducing Python, 2nd Edition](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Graph Algorithms](https://www.oreilly.com/library/view/graph-algorithms/9781492047674/)
+- [The Practitioner's Guide to Graph Data](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/)
 - [Classic Computer Science Problems in Python](https://www.oreilly.com/library/view/classic-computer-science/9781617295980/)
 - [Impractical Python Projects](https://www.oreilly.com/library/view/impractical-python-projects/9781492069454/)
 - [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
@@ -47,10 +51,18 @@
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+- [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservice](https://www.amazon.com.br/Architecture-Patterns-Python-Harry-Percival/dp/1492052205/ref=pd_sim_3?pd_rd_w=Jtcy9&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=KHW4DA6B5NN5ZRM19YBD&pd_rd_r=c4e723c5-0e3b-4cfc-871f-7c2d77779e7b&pd_rd_wg=YyuXX&pd_rd_i=1492052205&psc=1)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
+- [Python Programming: An Introduction to Computer Science](https://www.amazon.com.br/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=pd_sbs_1?pd_rd_w=tXYhQ&pf_rd_p=2b68fc86-1a28-4471-b574-e81acc03ba5c&pf_rd_r=C98PW25BW66HSKKGR6E4&pd_rd_r=eba21752-c759-4d60-a388-a7d0bc2ba94e&pd_rd_wg=8uIl0&pd_rd_i=1590282752&psc=1)
 - [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
+- [https://www.amazon.com.br/High-Performance-Python-Micha-Gorelik-dp-1492055026/dp/1492055026/ref=dp_ob_title_bk](https://www.amazon.com.br/High-Performance-Python-Micha-Gorelik-dp-1492055026/dp/1492055026/ref=dp_ob_title_bk)
 - [Python One-Liners](https://www.oreilly.com/library/view/python-one-liners/9781098122676/)
+- [Effective Python: 59 Specific Ways to Write Better Python](https://www.amazon.com.br/Effective-Python-Specific-Write-Better/dp/0134034287)
 - [Python Crash Course, 2nd Edition](https://www.oreilly.com/library/view/python-crash-course/9781492071266/)
+- [Cython: A Guide for Python Programmers](https://www.amazon.com.br/Cython-Kurt-Smith/dp/1491901551/ref=pd_sim_1?pd_rd_w=Jtcy9&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=KHW4DA6B5NN5ZRM19YBD&pd_rd_r=c4e723c5-0e3b-4cfc-871f-7c2d77779e7b&pd_rd_wg=YyuXX&pd_rd_i=1491901551&psc=1)
+- [Python in a Nutshell, 3e: A Desktop Quick Reference](https://www.amazon.com.br/Python-Nutshell-3e-Alex-Martelli/dp/144939292X)
+- [Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More](https://www.amazon.com.br/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5)
+- [Cracking Codes with Python: An Introduction to Building and Breaking Ciphers ](https://www.amazon.com.br/Cracking-Codes-Python-Introduction-Building-ebook/dp/B0713P1Q8X/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=introduction+python&qid=1616493963&sr=8-7)
 - [MIT 6.001x](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 - [MIT 6.042J Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 - [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
@@ -63,7 +75,7 @@
 - [MIT 6.004 Computation Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
 - [6.828 Operating System Engineering](#)
 - [MIT 6.824 Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-- [	Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](#)
+- [Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](#)
 - [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [Automate the Boring Stuff with Python](https://www.oreilly.com/library/view/automate-the-boring/9781457189906/)
 - [Pandas 1.x Cookbook](#)
@@ -89,10 +101,13 @@
 
 ### BUSINESS INTELLIGENCE
 
+- [The Practitioner's Guide to Graph Data](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/)
+- [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/)
+- [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)
+- [Advancing into Analytics](https://www.oreilly.com/library/view/advancing-into-analytics/9781492094333/)
 - [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=2)]
 - [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)
 - [High Performance MySQL, 4th Edition](https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/)
-- [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/)
 - [Python Data Analysis](https://www.oreilly.com/library/view/python-data-analysis/9781789955248/)
 - [Hands-On Exploratory Data Analysis with Python](https://www.oreilly.com/library/view/hands-on-exploratory-data/9781789537253/)
@@ -116,8 +131,8 @@
 
 ### MATEMÁTICA
 
+- [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
 - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning, IAP 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
-- [Practical Statistics for Data Scientists, 2nd Edition - INSERIR AUTOR](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
 - [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
 - [Practical Discrete Mathematics](https://www.oreilly.com/library/view/practical-discrete-mathematics/9781838983147/)
 - [Think Stats, 2nd Edition](https://www.oreilly.com/library/view/think-stats-2nd/9781491907344/)
