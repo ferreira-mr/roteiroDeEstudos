@@ -1,1 +1,0 @@
-> Proposta: Utilizar técnicas de mineração de visulização de dados abertis dos governos federal, estatudal e municipal

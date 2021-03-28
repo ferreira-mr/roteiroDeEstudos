@@ -1,5 +1,0 @@
-## NOTAS DE ESTUDO DE ECONOMIA
-
-## AUTORES RELEVANTES
-
-https://timharford.com/

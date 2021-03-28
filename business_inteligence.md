@@ -1,5 +1,8 @@
 # BUSINESS INTELLIGENCE - BACKLOG NÃO PRIORIZADO
 
+- [Hands-On Data Analysis with Pandas](https://www.oreilly.com/library/view/hands-on-data-analysis/9781789615326/)
+- [Practical Data Analysis Cookbook](https://www.oreilly.com/library/view/practical-data-analysis/9781783551668/)
+- [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)
 - [SQL Pocket Guide, 4th Edition - Alice Zhao](https://www.oreilly.com/library/view/sql-pocket-guide/9781492090397/)
 - [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 - [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)

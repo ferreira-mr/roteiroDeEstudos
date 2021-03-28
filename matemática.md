@@ -1,6 +1,5 @@
 # MATEMÁTICA - BACKLOG NÃO PRIORIZADO
 
-
 - [Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks](https://www.amazon.com.br/gp/product/B07J461Q2K/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 - [Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib](https://www.amazon.com.br/Numerical-Python-Scientific-Applications-Matplotlib/dp/1484242459/ref=pd_sim_3?pd_rd_w=dmVzw&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=S340V8KDJ25S7WNCNX69&pd_rd_r=2bd690b1-4acb-425e-a4cc-53fdfc431ef9&pd_rd_wg=THs3x&pd_rd_i=1484242459&psc=1)
 - [A Student`s Guide to Python for Physical Modelin ](https://www.amazon.com.br/Student%60s-Guide-Python-Physical-Modelin/dp/0691180571/ref=pd_sim_6?pd_rd_w=dClWz&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=QK00YKXB106EK3APDFSZ&pd_rd_r=4aac99a2-02f0-4858-8941-dac0eac08ce6&pd_rd_wg=mc3q9&pd_rd_i=0691180571&psc=1)

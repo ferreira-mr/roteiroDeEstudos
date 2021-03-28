@@ -1,3 +1,0 @@
-# **PWA**
-
-- Indicações Podcast Lambda
