@@ -4,6 +4,7 @@
 - [Practical Data Analysis Cookbook](https://www.oreilly.com/library/view/practical-data-analysis/9781783551668/)
 - [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)
 - [SQL Pocket Guide, 4th Edition - Alice Zhao](https://www.oreilly.com/library/view/sql-pocket-guide/9781492090397/)
+- [Effective SQL: 61 Specific Ways to Write Better SQL](https://www.oreilly.com/library/view/effective-sql-61/9780134579078/)
 - [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 - [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)
 - [Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data to extract key insights](#)
@@ -26,3 +27,5 @@
 - [Hardware Accelerated Database Lectures (Fall 2018)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbjOyrcqgE6_lCV6xvzffSN)
 - [15-721 Advanced Database Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 - [High Performance MySQL, 4th Edition](https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/)
+- [Relational Database Design and Implementation](https://www.oreilly.com/library/view/relational-database-design/9780128499023/)
+- [The Language of SQL](https://www.oreilly.com/library/view/the-language-of/9780134658346/)

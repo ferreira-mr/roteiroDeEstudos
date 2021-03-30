@@ -17,7 +17,7 @@
 
 ### MATEMÁTICA
 
-- [Doing Math with Python](https://www.oreilly.com/library/view/doing-math-with/9781457189999/) - *Terça / Quinta, 03h00h*
+- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha) - *Terça / Quinta, 03h00h*
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
