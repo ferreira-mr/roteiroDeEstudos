@@ -210,3 +210,8 @@ https://www.nngroup.com/reports/mobile-website-and-application-usability/
 https://uxdesign.cc/creating-a-copy-system-along-with-your-design-system-58afd89c3c12
 
 https://open.spotify.com/show/0f2hoLnZXsD8I8xWPUwFhv
+
+http://anatomy360.info/hand-reference/
+http://www.posemaniacs.com/archives/1207
+https://marketingeq.com/
+https://line-of-action.com/
