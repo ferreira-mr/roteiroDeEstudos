@@ -6,6 +6,7 @@
 - [Artificial Intelligence in Finance](https://www.oreilly.com/library/view/artificial-intelligence-in/9781492055426/)
 - [Blueprints for Text Analytics Using Python](https://www.oreilly.com/library/view/blueprints-for-text/9781492074076/)
 - [Communicating with Data](https://www.oreilly.com/library/view/communicating-with-data/9781098101848/)
+- [Computational Methods for Data Analysis](https://www.oreilly.com/library/view/computational-methods-for/9783110493603/)
 - [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=2)]
 - [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
 - [Design for How People Think](https://www.oreilly.com/library/view/design-for-how/9781491985441/)
@@ -14,6 +15,7 @@
 - [Hands-On Exploratory Data Analysis with Python](https://www.oreilly.com/library/view/hands-on-exploratory-data/9781789537253/)
 - [Practical Data Analysis Cookbook](https://www.oreilly.com/library/view/practical-data-analysis/9781783551668/)
 - [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/)
+- [Python Automation Cookbook - Second Edition](https://www.oreilly.com/library/view/python-automation-cookbook/9781800207080/)
 - [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/)
 - [Python Data Analysis](https://www.oreilly.com/library/view/python-data-analysis/9781789955248/)
 - [Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data to extract key insights](#)
@@ -24,6 +26,7 @@
 - [The Data Analysis Workshop](https://www.oreilly.com/library/view/the-data-analysis/9781839211386/)
 - [The Practitioner's Guide to Graph Data](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/)
 - [The Python Workshop](https://www.oreilly.com/library/view/the-python-workshop/9781839218859/)
+- [Python Data Cleaning Cookbook](https://www.oreilly.com/library/view/python-data-cleaning/9781800565661/)
 
 ## DATA VISUALIZATION
 

@@ -46,6 +46,7 @@
 - [SQL Cookbook, 2nd Edition - Anthony Molinaro, Robert de Graaf](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
 - [SQL for Data Analysis -  Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 - [Practical SQL - Anthony DeBarros](https://www.oreilly.com/library/view/practical-sql/9781492067580/)
+- [Data Mining for Business Analytics](https://www.oreilly.com/library/view/data-mining-for/9781119549840/)
 
 ### MATEMÁTICA
 

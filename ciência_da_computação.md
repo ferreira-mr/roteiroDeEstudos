@@ -2,11 +2,14 @@
 
 ## ALGORITIMO
 
+- [40 Algorithms Every Programmer Should Know](https://www.oreilly.com/library/view/40-algorithms-every/9781789801217/)
 - [Algorithmic Thinking: A Problem-Based Introduction](https://nostarch.com/algorithmic-thinking)
 - [Classic Computer Science Problems in Python](https://www.oreilly.com/library/view/classic-computer-science/9781617295980/)
 - [Dive Into Algorithms](https://nostarch.com/Dive-Into-Algorithms)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+- [Essential Algorithms, 2nd Edition](https://www.oreilly.com/library/view/essential-algorithms-2nd/9781119575993/)
 - [Graph Algorithms](https://www.oreilly.com/library/view/graph-algorithms/9781492047674/)
+- [The Art of Computer Programming](#)
 - [The Practitioner's Guide to Graph Data](https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/)
 - [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 - [MIT 6.004 Computation Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
@@ -61,13 +64,18 @@
 - [MIT's Introduction to Computer Science and Programming Using Python ](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 - [Pandas Cookbook](https://www.oreilly.com/library/view/pandas-cookbook/9781784393878/)
 
-## SQL
+
+## ENGENHARIA DE DADOS
 
 - [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 - [15-721 Advanced Database Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 - [Azure SQL Bootcamp](https://www.youtube.com/playlist?list=PLlrxD0HtieHjveswk8_gkPD42Te48X4zG&WT.mc_id=learnlive-video-learn)
+- [Big Data Simplified](https://www.oreilly.com/library/view/big-data-simplified/9789353941505/)
+- [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/)
 - [Effective SQL: 61 Specific Ways to Write Better SQL](https://www.oreilly.com/library/view/effective-sql-61/9780134579078/)
+- [Foundations for Architecting Data Solutions](https://www.oreilly.com/library/view/foundations-for-architecting/9781492038733/)
 - [Hardware Accelerated Database Lectures (Fall 2018)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbjOyrcqgE6_lCV6xvzffSN)
+- [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)
 - [Relational Database Design and Implementation](https://www.oreilly.com/library/view/relational-database-design/9780128499023/)
 - [SQL Pocket Guide, 4th Edition - Alice Zhao](https://www.oreilly.com/library/view/sql-pocket-guide/9781492090397/)
 - [The Language of SQL](https://www.oreilly.com/library/view/the-language-of/9780134658346/)
@@ -85,6 +93,7 @@
 - [Practical Deep Learning](https://www.oreilly.com/library/view/practical-deep-learning/9781098128470/)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30)
+- [Machine Learning with Python for Everyone](https://www.oreilly.com/library/view/machine-learning-with/9780134845708/)
 - [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [MIT 6.S897 Machine Learning for Healthcare, Spring 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
