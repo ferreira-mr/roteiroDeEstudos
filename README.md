@@ -57,5 +57,9 @@
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
+- [Redação Científica - IGVEC](https://igvec.com/sala/fast_sala.php?token=PALESTRA-FREE-REDACAO-CIENTIFICA)
+- [Práticas de Leitura e Escrita Acadêmicas | Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ)
 - [Tópicos de Epistemologia e Didática | Aulas USP](https://www.youtube.com/watch?v=YqbAHG3Fs44&list=PLAudUnJeNg4tTpuOqi-_2qs4LmZ1DJUXK)
 - [Graduação em Matemática na Unip](https://ava.ead.unip.br/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_25_1)
+- [Método Lógico para Redação Científica: bases e aplicação](https://www.youtube.com/playlist?list=PLMmWegTl-vzV7ScJqOiXI-p0QamOE8hBy)
+- [IGVEC](https://igvec.com/clube/)
