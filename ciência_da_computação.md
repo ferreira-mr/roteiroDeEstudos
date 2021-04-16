@@ -2,6 +2,7 @@
 
 ## ALGORITIMO
 
+- [Artem Golubin](https://rushter.com/)
 - [40 Algorithms Every Programmer Should Know](https://www.oreilly.com/library/view/40-algorithms-every/9781789801217/)
 - [Algorithmic Thinking: A Problem-Based Introduction](https://nostarch.com/algorithmic-thinking)
 - [Classic Computer Science Problems in Python](https://www.oreilly.com/library/view/classic-computer-science/9781617295980/)
@@ -42,6 +43,7 @@
 - [Python in a Nutshell, 3e: A Desktop Quick Reference](https://www.amazon.com.br/Python-Nutshell-3e-Alex-Martelli/dp/144939292X)
 - [Python One-Liners](https://www.oreilly.com/library/view/python-one-liners/9781098122676/)
 - [Python Playground](https://nostarch.com/pythonplayground)
+- [Python Projects for Beginners: A Ten-Week Bootcamp Approach to Python Programming](https://www.oreilly.com/library/view/python-projects-for/9781484253557/)
 - [Python Programming: An Introduction to Computer Science](https://www.amazon.com.br/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=pd_sbs_1?pd_rd_w=tXYhQ&pf_rd_p=2b68fc86-1a28-4471-b574-e81acc03ba5c&pf_rd_r=C98PW25BW66HSKKGR6E4&pd_rd_r=eba21752-c759-4d60-a388-a7d0bc2ba94e&pd_rd_wg=8uIl0&pd_rd_i=1590282752&psc=1)
 - [Practical Python Data Wrangling and Data Quality](https://www.oreilly.com/library/view/practical-python-data/9781492091493/)
 - [Real-World Python](https://nostarch.com/real-world-python)
@@ -50,12 +52,14 @@
 
 ## DATASCIENCE
 
+- [Architecting Modern Data Platforms](https://www.oreilly.com/library/view/architecting-modern-data/9781491969267/)
 - [Data Science for Beginners: 4 Books in 1: Python Programming, Data Analysis, Machine Learning.](https://www.amazon.com.br/Data-Science-Beginners-Programming-Learning/dp/1914167996/ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Doing+Math+with+Python&qid=1616923819&sr=8-12)
 - [Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 - [Data Science Hands-On Crash Course](https://www.youtube.com/watch?v=XU5pw3QRYjQ)
 - [Data Science Tutorial | Data Science for Beginners | Python for Data Science | 11 Hours Full Course](https://www.youtube.com/watch?v=u2zsY-2uZiE)
 - [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=3)
 - [Foundations of Data Science](https://www.youtube.com/playlist?list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
+- [Foundations for Architecting Data Solutions](https://www.oreilly.com/library/view/foundations-for-architecting/9781492038733/)
 - [High Performance Python 2e: Practical Performant Programming for Humans ](https://www.amazon.com.br/High-Performance-Python-Micha-Gorelik-dp-1492055026/dp/1492055026/ref=dp_ob_title_bk)
 - [Intro to Data Science - Crash Course for Beginners](https://www.youtube.com/watch?v=N6BghzuFLIg)
 - [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
@@ -63,6 +67,10 @@
 - [Mastering Exploratory Analysis with pandas](https://www.oreilly.com/library/view/mastering-exploratory-analysis/9781789619638/)
 - [MIT's Introduction to Computer Science and Programming Using Python ](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 - [Pandas Cookbook](https://www.oreilly.com/library/view/pandas-cookbook/9781784393878/)
+- [The Self-Service Data Roadmap](https://www.oreilly.com/library/view/the-self-service-data/9781492075240/)
+- [Welcome to Practical Data Science!](https://www.practicaldatascience.org/html/index.html)
+
+- 
 
 
 ## ENGENHARIA DE DADOS
@@ -82,8 +90,9 @@
 - [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 - [SQL in a Nutshell](https://www.oreilly.com/library/view/sql-in-a/9780596155322/)
 
-## DAX
+## SQL SERVER
 
+- [Beginning T-SQL: A Step-by-Step Approach](https://www.oreilly.com/library/view/beginning-t-sql-a/9781484266069/)
 - [Definitive Guide to DAX, The: Business intelligence for Microsoft Power BI, SQL Server Analysis Services, and Excel](https://www.oreilly.com/library/view/definitive-guide-to/9780134865867/)
 
 ## MACHINE LEARNING

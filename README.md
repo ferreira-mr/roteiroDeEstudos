@@ -21,6 +21,7 @@
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
+- [Redação Científica - IGVEC](https://igvec.com/sala/fast_sala.php?token=PALESTRA-FREE-REDACAO-CIENTIFICA)
 - [Práticas de Leitura e Escrita Acadêmicas | Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ) - *Sexta, 14h00*
 - [Atividades: Práticas de esino](#) - *Sexta, 15h00* 
 
@@ -38,6 +39,9 @@
 - [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
 - [Thinking in Pandas: How to Use the Python Data Analysis Library the Right Way](https://www.oreilly.com/library/view/thinking-in-pandas/9781484258392/)
 - [Pandas for Everyone: Python Data Analysis](https://www.oreilly.com/library/view/pandas-for-everyone/9780134547046/)
+- [Classic Computer Science Problems in Python](https://www.amazon.com.br/Classic-Computer-Science-Problems-Python/dp/1617295981/ref=pd_sim_3?pd_rd_w=w6y03&pf_rd_p=d2883ac0-cb76-4340-aab4-ffa3314b9318&pf_rd_r=8N1NC91ZB7NYCARB78TG&pd_rd_r=42e95269-ca8b-453a-bc6d-e1714578f8fd&pd_rd_wg=o9vTY&pd_rd_i=1617295981&psc=1)
+- [Think Complexity: Complexity Science and Computational Modeling](https://www.amazon.com.br/Think-Complexity-Allen-B-Downey/dp/1449314635)
+    - [Allen Downey]http://www.allendowney.com/wp/
 
 ### BUSINESS INTELLIGENCE
 
@@ -50,15 +54,14 @@
 
 ### MATEMÁTICA
 
-- [A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics](https://www.oreilly.com/library/view/a-python-data/9781484263990/)
+- [Math Adventures with Python](https://www.oreilly.com/library/view/math-adventures-with/9781492071228/)
 - [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics](https://www.oreilly.com/library/view/a-python-data/9781484263990/)
 - [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
 - [Math Adventures with Python](https://www.oreilly.com/library/view/math-adventures-with/9781492071228/)
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
-- [Redação Científica - IGVEC](https://igvec.com/sala/fast_sala.php?token=PALESTRA-FREE-REDACAO-CIENTIFICA)
-- [Práticas de Leitura e Escrita Acadêmicas | Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ)
 - [Tópicos de Epistemologia e Didática | Aulas USP](https://www.youtube.com/watch?v=YqbAHG3Fs44&list=PLAudUnJeNg4tTpuOqi-_2qs4LmZ1DJUXK)
 - [Graduação em Matemática na Unip](https://ava.ead.unip.br/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_25_1)
 - [Método Lógico para Redação Científica: bases e aplicação](https://www.youtube.com/playlist?list=PLMmWegTl-vzV7ScJqOiXI-p0QamOE8hBy)
