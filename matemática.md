@@ -22,8 +22,15 @@
 ## ESTATÍSTICA
 
 - [Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks](https://www.amazon.com.br/gp/product/B07J461Q2K/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+- [Curso Delineando a Pesquisa Clínica](https://www.youtube.com/playlist?list=PLZjaOxYREinuLmRYwjC8574Rne6BE57Sa)
+- [Curso Diseño de investigaciones clínicas](https://www.youtube.com/playlist?list=PLZjaOxYREinuewcxQ9IN-lqFvYFU5JTqT)
+- [Estatística Aplicada a Psicobiologia I (UNIFESP - Aulas práticas)](https://www.youtube.com/playlist?list=PLZjaOxYREinszhhEhXI9wSRibGTOFmSXy)
+- [Estatística Aplicada a Psicobiologia II (UNIFESP - Aulas práticas)](https://www.youtube.com/playlist?list=PLZjaOxYREinslupYDLvknGMB-U-Kl8G7k)
+- [Estatística Psicobio II - Revisão Regressão e o início do pensamento científico](https://www.youtube.com/watch?v=QRUSHc0tHk0&list=PLZjaOxYREinsppORQxouwQPMdifMxRdUO)
 - [Introdução à Álgebra Linear - Impa (2018)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSE0DFoq4es_iMvjlCeG8pP)
 - [Head First Statistics](https://www.oreilly.com/library/view/head-first-statistics/9780596527587/)
+- [Lives - Disciplina Estatística aplicada a Psicobiologia I 2020 - UNIFESP](https://www.youtube.com/playlist?list=PLZjaOxYREinuHJJ0XiZjkIOzZDyZCh70z)
+- [statsmodels.org](https://www.statsmodels.org/stable/index.html)
 - [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
 - [Statistics Done Wrong](https://www.oreilly.com/library/view/statistics-done-wrong/9781457189845/)

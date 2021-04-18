@@ -29,6 +29,7 @@
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
 - [Study Hall: Data Literacy](https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt)
+- [towardsdatascience.com](https://towardsdatascience.com/)
 
 ## BACKLOG PRIORIZADO
 
@@ -47,18 +48,17 @@
 
 - [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 1](https://www.youtube.com/watch?v=4cWkVbC2bNE)
 - [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2](https://www.youtube.com/watch?v=lxEdaElkQhQ)
-- [SQL Cookbook, 2nd Edition - Anthony Molinaro, Robert de Graaf](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
 - [SQL for Data Analysis -  Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
 - [Practical SQL - Anthony DeBarros](https://www.oreilly.com/library/view/practical-sql/9781492067580/)
+- [SQL Cookbook, 2nd Edition - Anthony Molinaro, Robert de Graaf](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
 - [Data Mining for Business Analytics](https://www.oreilly.com/library/view/data-mining-for/9781119549840/)
 
 ### MATEMÁTICA
 
 - [Math Adventures with Python](https://www.oreilly.com/library/view/math-adventures-with/9781492071228/)
 - [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
-- [A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics](https://www.oreilly.com/library/view/a-python-data/9781484263990/)
 - [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
-- [Math Adventures with Python](https://www.oreilly.com/library/view/math-adventures-with/9781492071228/)
+- [A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics](https://www.oreilly.com/library/view/a-python-data/9781484263990/)
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
@@ -66,3 +66,14 @@
 - [Graduação em Matemática na Unip](https://ava.ead.unip.br/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_25_1)
 - [Método Lógico para Redação Científica: bases e aplicação](https://www.youtube.com/playlist?list=PLMmWegTl-vzV7ScJqOiXI-p0QamOE8hBy)
 - [IGVEC](https://igvec.com/clube/)
+
+## POSSÍVEIS PROJETOS FUTUROS
+
+- Pós graduação em BI
+- Pós graduação em Banco de Dados
+
+## POSSÍVEIS COMPRAS FUTURAS
+
+- [GenioDesks - mesas com regulagem de altura](https://www.geniodesks.com.br/)
+- [Bolsas de couro](https://www.nordweg.com/)
+

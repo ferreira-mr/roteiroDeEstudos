@@ -20,6 +20,7 @@
 - [MIT 6.172 Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [MIT 6.854J / 18.415J Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
 - [MIT 6.S095 Programming for the Puzzled](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA)
+- [The Art of Computer Programming - Donald E. Knuth](#)
 - [Think Complexity, 2nd Edition](https://www.oreilly.com/library/view/think-complexity-2nd/9781492040194/)
 
 ## PYTHON
@@ -35,6 +36,7 @@
 - [Introducing Python, 2nd Edition](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
 - [Impractical Python Projects](https://www.oreilly.com/library/view/impractical-python-projects/9781492069454/)
 - [Learn Python Visually](https://nostarch.com/Learn-Python-Visually)
+- [Modern Python Cookbook: 133 recipes to develop flawless and expressive programs in Python 3.8, 2nd Edition](https://www.amazon.com/-/es/Steven-F-Lott/dp/180020745X/ref=pd_sbs_6?pd_rd_w=QA6y0&pf_rd_p=2419a049-62bf-452e-b0d0-ca5b7e35a7b4&pf_rd_r=C11AWNTP95F6KYA1KKZK&pd_rd_r=81fc2fe7-a2ba-469a-aea1-7d1f98c25489&pd_rd_wg=JDW0y&pd_rd_i=180020745X&psc=1)
 - [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
 - [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
 - [Python Crash Course, 2nd Edition](https://www.oreilly.com/library/view/python-crash-course/9781492071266/)
@@ -67,11 +69,10 @@
 - [Mastering Exploratory Analysis with pandas](https://www.oreilly.com/library/view/mastering-exploratory-analysis/9781789619638/)
 - [MIT's Introduction to Computer Science and Programming Using Python ](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 - [Pandas Cookbook](https://www.oreilly.com/library/view/pandas-cookbook/9781784393878/)
+- [Python Data Analysis: Perform data collection, data processing, wrangling, visualization, and model building using Python](https://www.amazon.com/-/es/Avinash-Navlani/dp/1789955246/ref=pd_sbs_5?pd_rd_w=QA6y0&pf_rd_p=2419a049-62bf-452e-b0d0-ca5b7e35a7b4&pf_rd_r=C11AWNTP95F6KYA1KKZK&pd_rd_r=81fc2fe7-a2ba-469a-aea1-7d1f98c25489&pd_rd_wg=JDW0y&pd_rd_i=1789955246&psc=1)
+- [Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data and extract key insights](https://www.amazon.com/-/es/Michael-Walker/dp/1800565666/ref=pd_lpo_14_t_0/141-3332427-4492243?_encoding=UTF8&pd_rd_i=1800565666&pd_rd_r=55e8b9ec-01d6-43e9-8526-6e2b10dc9656&pd_rd_w=rbVlc&pd_rd_wg=TorFe&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=BWZYBEDR32CWWV3GBQC7&psc=1&refRID=BWZYBEDR32CWWV3GBQC7)
 - [The Self-Service Data Roadmap](https://www.oreilly.com/library/view/the-self-service-data/9781492075240/)
 - [Welcome to Practical Data Science!](https://www.practicaldatascience.org/html/index.html)
-
-- 
-
 
 ## ENGENHARIA DE DADOS
 
@@ -79,6 +80,7 @@
 - [15-721 Advanced Database Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 - [Azure SQL Bootcamp](https://www.youtube.com/playlist?list=PLlrxD0HtieHjveswk8_gkPD42Te48X4zG&WT.mc_id=learnlive-video-learn)
 - [Big Data Simplified](https://www.oreilly.com/library/view/big-data-simplified/9789353941505/)
+- [Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python](https://www.amazon.com/-/es/Paul-Crickard/dp/183921418X)
 - [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/)
 - [Effective SQL: 61 Specific Ways to Write Better SQL](https://www.oreilly.com/library/view/effective-sql-61/9780134579078/)
 - [Foundations for Architecting Data Solutions](https://www.oreilly.com/library/view/foundations-for-architecting/9781492038733/)
@@ -109,10 +111,12 @@
 - [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [projector.tensorflow.org](https://projector.tensorflow.org/)
 
 ## NLP
 
 - [Natural Language Processing with Python and spaCy](https://nostarch.com/NLPPython)
+- [spaCY - Industrial-Strength Natural Language Processing](https://spacy.io/)
 
 ## PROCESSAMENTO DE IMAGEM
 
@@ -131,10 +135,57 @@
 - [Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib](https://www.amazon.com.br/Numerical-Python-Scientific-Applications-Matplotlib/dp/1484242459/ref=pd_sim_3?pd_rd_w=dmVzw&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=S340V8KDJ25S7WNCNX69&pd_rd_r=2bd690b1-4acb-425e-a4cc-53fdfc431ef9&pd_rd_wg=THs3x&pd_rd_i=1484242459&psc=1)
 - [Numerical Methods in Physics with Python](https://www.amazon.com.br/Numerical-Methods-Physics-Python-Gezerlis/dp/1108488846/ref=pd_sim_1?pd_rd_w=dmVzw&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=S340V8KDJ25S7WNCNX69&pd_rd_r=2bd690b1-4acb-425e-a4cc-53fdfc431ef9&pd_rd_wg=THs3x&pd_rd_i=1108488846&psc=1)
 
-## PROGRAMAÇÃO FUNCIONAL
+## PLATAFORMAS PARA ESTUDO
 
-- [Get Programming with Haskell ](https://www.amazon.com.br/Get-Programming-Haskell-Will-Kurt/dp/1617293768/ref=sr_1_18?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Doing+Math+with+Python&qid=1616923819&sr=8-18)
+- [coderbyte](https://coderbyte.com/)
 
-## KIDs
+## BIBLIOTECAS
 
-- [Scratch 3 Programming Playground](https://nostarch.com/scratch3playground)
+- [PyTorch](https://pytorch.org/)
+- [prophet](https://facebook.github.io/prophet/)
+- Spark
+- PySpark
+- xgbOOT
+- IPython
+- Scikit Learn
+- Keras
+- Skimage
+- Tensorflow
+- Dask
+- Dash
+- Plotly
+- Bokeh
+- D3js
+- MyPy
+- Numpy
+- SciPy
+- Seaborn
+- Conda
+- Jupyter
+- os
+- Logging
+- collections
+- Flask API
+- Docker
+- pip
+
+## LINGUAGENS DE PROGRAMAÇÃO
+
+- R
+- Scala
+- Júlia
+- [Get Programming with Haskell](https://www.amazon.com.br/Get-Programming-Haskell-Will-Kurt/dp/1617293768/ref=sr_1_18?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Doing+Math+with+Python&qid=1616923819&sr=8-18)
+
+## TÓPICOS
+
+- Teoria da computação
+- Gestão da informação
+- Teoria matemática da computação
+
+## PERSONALIDADES
+
+- [Donald E. Knuth](https://www.youtube.com/results?search_query=Donald+E.+Knuth)
+
+## SITES INTERESSANTES
+
+- [a1k0n.net](https://www.a1k0n.net/)

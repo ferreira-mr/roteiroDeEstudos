@@ -1,5 +1,6 @@
 # BUSINESS INTELLIGENCE - BACKLOG NÃO PRIORIZADO
 
+## POWER BI
 
 - [Advancing into Analytics](https://www.oreilly.com/library/view/advancing-into-analytics/9781492094333/)
 - [Analytical Skills for AI and Data Science](https://www.oreilly.com/library/view/analytical-skills-for/9781492060932/)
@@ -33,3 +34,10 @@
 - [Fundamentals of Data Visualization](https://www.oreilly.com/library/view/fundamentals-of-data/9781492031079/)
 - [Hands-On Data Visualization](https://www.oreilly.com/library/view/hands-on-data-visualization/9781492085997/)
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.oreilly.com/library/view/storytelling-with-data/9781119002253/)
+- [Data Visualization in Python]
+- [The Python Graph Gallery](https://www.python-graph-gallery.com/)
+
+## ESTUDOS FUTUROS
+
+- Pesquisa operacional
+- Econometria

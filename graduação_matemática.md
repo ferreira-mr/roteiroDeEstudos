@@ -53,4 +53,14 @@ Emviar foto dos documentos
 - [Math 70 Beginning Algebra - YouTube](https://www.youtube.com/playlist?list=PL367nn10rv0sBKcmndvD9sqBbftcE5udD)
 - [Pre-University Calculus | edX](https://www.edx.org/course/pre-university-calculus-2)
 - [Algebra I | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-701-algebra-i-fall-2010/index.htm?utm_source=OCWDept&utm_medium=CarouselSm&utm_campaign=FeaturedCourse)
+- [Curso :: Redação Científica](https://www.youtube.com/playlist?list=PLFhTJITcYZ5c_beVBvNZQNY30b7TzZG9Z)
+- [Licenciatura Univesp - Métodos para a Produção do Conhecimento](https://www.youtube.com/playlist?list=PLxI8Can9yAHcIKoH_gYzv3i62QrjbhAbF)
+- [How to Write Backwards](https://edisciplinas.usp.br/pluginfile.php/325303/mod_resource/content/1/Magnusson.pdf)
+- [Método Lógico para Redação Científica: bases e aplicação](https://www.youtube.com/playlist?list=PLMmWegTl-vzV7ScJqOiXI-p0QamOE8hBy)
+- [Quebrando Mitos na Redação Científica](https://www.youtube.com/playlist?list=PL9d1JiGsRXA5GOqFJyT9CVzdvanPYj4ty)
 
+##  ENSINO PROGRAMAÇÃO E ROBÓTICA
+
+- [Code wih Mu](https://codewith.mu/en/)
+- [micro:bit](https://makecode.microbit.org/)
+- [Scratch 3 Programming Playground](https://nostarch.com/scratch3playground)
