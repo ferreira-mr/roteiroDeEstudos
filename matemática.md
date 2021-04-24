@@ -3,10 +3,8 @@
 ## ÁLGEBRA LINEAR
 
 - [Álgebra Linear - UFRJ 2018](https://www.youtube.com/playlist?list=PLsVKfJEcnnr1VjFhhD4btJip_dQ5pI81n)
-- [Álgebra Linear - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 - [Álgebra Linear - Univesp 2018](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr)
 - [Álgebra Linear IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSE0DFoq4es_iMvjlCeG8pP)
-- [Álgebra Linear 1 - USP (2019)](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 - [Linear Algebra - Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 - [Linear Algebra - Trefor Bazett (2020)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 - [Linear Algebra - Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
@@ -47,7 +45,6 @@
 - [mooculus](https://mooculus.osu.edu/)
 - [Cálculo I - Unicamp](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B)
 - [Cálculo I - Univesp](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
-- [Cálculo I - USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx)
 - [Calculus I - Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
 - [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
 
