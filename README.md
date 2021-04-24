@@ -17,7 +17,9 @@
 
 ### MATEMÁTICA
 
-- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha) - *Terça / Quinta, 03h00h*
+- [Cálculo I - USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) - *Domingo / Terça / Quinta, 03h30*
+- [Álgebra Linear 1 - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) *Segunda / Terµça / Sexta, 03h30*
+- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha) - *Terça / Quinta, 04h00h*
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
