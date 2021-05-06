@@ -8,7 +8,7 @@
 - [Blueprints for Text Analytics Using Python](https://www.oreilly.com/library/view/blueprints-for-text/9781492074076/)
 - [Communicating with Data](https://www.oreilly.com/library/view/communicating-with-data/9781098101848/)
 - [Computational Methods for Data Analysis](https://www.oreilly.com/library/view/computational-methods-for/9783110493603/)
-- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=2)]
+- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=2)
 - [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
 - [Design for How People Think](https://www.oreilly.com/library/view/design-for-how/9781491985441/)
 - [Foundations for Analytics with Python](https://www.oreilly.com/library/view/foundations-for-analytics/9781491922521/)
@@ -34,7 +34,7 @@
 - [Fundamentals of Data Visualization](https://www.oreilly.com/library/view/fundamentals-of-data/9781492031079/)
 - [Hands-On Data Visualization](https://www.oreilly.com/library/view/hands-on-data-visualization/9781492085997/)
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.oreilly.com/library/view/storytelling-with-data/9781119002253/)
-- [Data Visualization in Python]
+- [Data Visualization in Python]()
 - [The Python Graph Gallery](https://www.python-graph-gallery.com/)
 
 ## ESTUDOS FUTUROS

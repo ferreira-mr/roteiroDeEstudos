@@ -77,6 +77,7 @@
 ## ENGENHARIA DE DADOS
 
 - [15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+- [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 - [15-721 Advanced Database Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 - [Azure SQL Bootcamp](https://www.youtube.com/playlist?list=PLlrxD0HtieHjveswk8_gkPD42Te48X4zG&WT.mc_id=learnlive-video-learn)
 - [Big Data Simplified](https://www.oreilly.com/library/view/big-data-simplified/9789353941505/)
@@ -89,8 +90,9 @@
 - [Relational Database Design and Implementation](https://www.oreilly.com/library/view/relational-database-design/9780128499023/)
 - [SQL Pocket Guide, 4th Edition - Alice Zhao](https://www.oreilly.com/library/view/sql-pocket-guide/9781492090397/)
 - [The Language of SQL](https://www.oreilly.com/library/view/the-language-of/9780134658346/)
-- [Time Series Database Lectures (Fall 2017)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY0GMWN4X8FIkYNfiu8_Wl9)
 - [SQL in a Nutshell](https://www.oreilly.com/library/view/sql-in-a/9780596155322/)
+- [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 1](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+- [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2](https://www.youtube.com/watch?v=lxEdaElkQhQ)
 
 ## SQL SERVER
 

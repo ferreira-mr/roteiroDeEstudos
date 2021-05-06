@@ -4,28 +4,30 @@
 
 ### CIÊNCIA DA COMPUTAÇÃO
 
+- [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz) - *Segunda / Quinta, 04h00*
 - [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) - *Domingo / Terça / Quinta, 06h30h*
 - [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) - *Segunda / Quarta / Sexta, 06h30h*
-- [Alura](https://cursos.alura.com.br/) - *Terça / Quarta / Quinta / Sexta, 17h00*
-- [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz) - *Domingo, 03h00*
-- [Introduction to Algorithms, 3nd - Thomas H. Cormen](https://github.com/ferreiramr/livroIntroductionToAlgorithms_ThomasCormen) - *Segunda, 17h00*
+- [Alura](https://cursos.alura.com.br/) - *Terça / Quarta / Quinta / 17h00*
 
 ### BUSINESS INTELLIGENCE
 
-- [Python for Data Analysis- Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney) - *Segunda / Quarta / Sexta, 10h30*
-- [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) - *Segunda / Quarta / Sexta, 03h00*
+- [Python for Data Analysis- Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney) - *Segunda / Quinta, 10h30*
+- [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) - *Terça / Quinta / Sexta, 10h30*
 
 ### MATEMÁTICA
 
+- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha) - *Terça / Sexta, 04h00h*
 - [Cálculo I - USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) - *Domingo / Terça / Quinta, 03h30*
 - [Álgebra Linear 1 - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) *Segunda / Terµça / Sexta, 03h30*
-- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha) - *Terça / Quinta, 04h00h*
+
+### PROJETOS PRÁTICOS
+
+ - [Entendendo e analisando os dados da Covid no Brasil](#) *Domingo / Quarta, 04h30*
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
-- [Redação Científica - IGVEC](https://igvec.com/sala/fast_sala.php?token=PALESTRA-FREE-REDACAO-CIENTIFICA)
-- [Práticas de Leitura e Escrita Acadêmicas | Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ) - *Sexta, 14h00*
-- [Atividades: Práticas de esino](#) - *Sexta, 15h00* 
+- [Atividades: Práticas de ensino](#) - *Sexta, 15h00*  
+- [Práticas de Leitura e Escrita Acadêmicas | Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ) - *Sexta, 17h00*
 
 ## ENTERTERIMENTTO
 
@@ -48,11 +50,9 @@
 
 ### BUSINESS INTELLIGENCE
 
-- [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 1](https://www.youtube.com/watch?v=4cWkVbC2bNE)
-- [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) - PART 2](https://www.youtube.com/watch?v=lxEdaElkQhQ)
 - [SQL for Data Analysis -  Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
-- [Practical SQL - Anthony DeBarros](https://www.oreilly.com/library/view/practical-sql/9781492067580/)
 - [SQL Cookbook, 2nd Edition - Anthony Molinaro, Robert de Graaf](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
+- [Practical SQL - Anthony DeBarros](https://www.oreilly.com/library/view/practical-sql/9781492067580/)
 - [Data Mining for Business Analytics](https://www.oreilly.com/library/view/data-mining-for/9781119549840/)
 
 ### MATEMÁTICA
