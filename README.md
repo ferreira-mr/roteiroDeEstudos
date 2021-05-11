@@ -5,24 +5,23 @@
 ### CIÊNCIA DA COMPUTAÇÃO
 
 - [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz) - *Segunda / Quinta, 04h00*
-- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) - *Domingo / Terça / Quinta, 06h30h*
-- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) - *Segunda / Quarta / Sexta, 06h30h*
-- [Alura](https://cursos.alura.com.br/) - *Terça / Quarta / Quinta / 17h00*
+- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) - *Terça / Quinta, 06h30h*
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) - *Segunda / Quarta, 06h30h*
+- [Alura](https://cursos.alura.com.br/) - *Segunda  / Terça / Quarta / Quinta / 17h00*
 
 ### BUSINESS INTELLIGENCE
 
 - [Python for Data Analysis- Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney) - *Segunda / Quinta, 10h30*
-- [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) - *Terça / Quinta / Sexta, 10h30*
+- [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) - *Terça / Quinta, 10h30*
 
 ### MATEMÁTICA
 
-- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha) - *Terça / Sexta, 04h00h*
-- [Cálculo I - USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) - *Domingo / Terça / Quinta, 03h30*
-- [Álgebra Linear 1 - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) *Segunda / Terµça / Sexta, 03h30*
+- [Cálculo I - USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) - *Terça / Quinta, 03h30*
+- [Álgebra Linear 1 - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) *Segunda / Terça, 03h30*
 
 ### PROJETOS PRÁTICOS
 
- - [Entendendo e analisando os dados da Covid no Brasil](#) *Domingo / Quarta, 04h30*
+ - [Entendendo e analisando os dados da Covid no Brasil](#) *Domingo*
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
@@ -57,6 +56,7 @@
 
 ### MATEMÁTICA
 
+- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha)
 - [Math Adventures with Python](https://www.oreilly.com/library/view/math-adventures-with/9781492071228/)
 - [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
 - [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
