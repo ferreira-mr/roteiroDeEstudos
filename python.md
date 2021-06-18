@@ -1,0 +1,54 @@
+# PYTHON
+
+- [Automate the Boring Stuff with Python](https://www.oreilly.com/library/view/automate-the-boring/9781457189906/)
+- [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservice](https://www.amazon.com.br/Architecture-Patterns-Python-Harry-Percival/dp/1492052205/ref=pd_sim_3?pd_rd_w=Jtcy9&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=KHW4DA6B5NN5ZRM19YBD&pd_rd_r=c4e723c5-0e3b-4cfc-871f-7c2d77779e7b&pd_rd_wg=YyuXX&pd_rd_i=1492052205&psc=1)
+- [Clean Python: Elegant Coding in Python](https://www.oreilly.com/library/view/clean-python-elegant/9781484248782/)
+- [Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](#)
+- [Cython: A Guide for Python Programmers](https://www.amazon.com.br/Cython-Kurt-Smith/dp/1491901551/ref=pd_sim_1?pd_rd_w=Jtcy9&pf_rd_p=9c0e6083-d3b6-4ef6-8043-4159514413db&pf_rd_r=KHW4DA6B5NN5ZRM19YBD&pd_rd_r=c4e723c5-0e3b-4cfc-871f-7c2d77779e7b&pd_rd_wg=YyuXX&pd_rd_i=1491901551&psc=1)
+- [Classic Computer Science Problems in Python](https://www.oreilly.com/library/view/classic-computer-science/9781617295980/)
+- [Cracking Codes with Python: An Introduction to Building and Breaking Ciphers ](https://www.amazon.com.br/Cracking-Codes-Python-Introduction-Building-ebook/dp/B0713P1Q8X/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=introduction+python&qid=1616493963&sr=8-7)
+- [Effective Python: 59 Specific Ways to Write Better Python](https://www.amazon.com.br/Effective-Python-Specific-Write-Better/dp/0134034287)
+- [Introducing Python, 2nd Edition](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
+- [Impractical Python Projects](https://www.oreilly.com/library/view/impractical-python-projects/9781492069454/)
+- [Learn Python Visually](https://nostarch.com/Learn-Python-Visually)
+- [Modern Python Cookbook: 133 recipes to develop flawless and expressive programs in Python 3.8, 2nd Edition](https://www.amazon.com/-/es/Steven-F-Lott/dp/180020745X/ref=pd_sbs_6?pd_rd_w=QA6y0&pf_rd_p=2419a049-62bf-452e-b0d0-ca5b7e35a7b4&pf_rd_r=C11AWNTP95F6KYA1KKZK&pd_rd_r=81fc2fe7-a2ba-469a-aea1-7d1f98c25489&pd_rd_wg=JDW0y&pd_rd_i=180020745X&psc=1)
+- [Programming Python, 4th Edition](https://github.com/ferreiramr/livroProgrammingPython_MarkLutz)
+- [Python Crash Course, 2nd Edition](https://www.oreilly.com/library/view/python-crash-course/9781492071266/)
+- [Python: Essential Reference](https://www.oreilly.com/library/view/python-essential-reference/9780768687040/)
+- [Python for Data Science | Data Science with Python | Python for Data Analysis | 11 Hours Full Course](https://www.youtube.com/watch?v=edvg4eHi_Mw)
+- [Python in a Nutshell, 3e: A Desktop Quick Reference](https://www.amazon.com.br/Python-Nutshell-3e-Alex-Martelli/dp/144939292X)
+- [Python One-Liners](https://www.oreilly.com/library/view/python-one-liners/9781098122676/)
+- [Python Playground](https://nostarch.com/pythonplayground)
+- [Python Projects for Beginners: A Ten-Week Bootcamp Approach to Python Programming](https://www.oreilly.com/library/view/python-projects-for/9781484253557/)
+- [Python Programming: An Introduction to Computer Science](https://www.amazon.com.br/Python-Programming-Introduction-Computer-Science/dp/1590282752/ref=pd_sbs_1?pd_rd_w=tXYhQ&pf_rd_p=2b68fc86-1a28-4471-b574-e81acc03ba5c&pf_rd_r=C98PW25BW66HSKKGR6E4&pd_rd_r=eba21752-c759-4d60-a388-a7d0bc2ba94e&pd_rd_wg=8uIl0&pd_rd_i=1590282752&psc=1)
+- [Practical Python Data Wrangling and Data Quality](https://www.oreilly.com/library/view/practical-python-data/9781492091493/)
+- [Real-World Python](https://nostarch.com/real-world-python)
+- [Robust Python](https://www.oreilly.com/library/view/robust-python/9781098100650/)
+- [Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More](https://www.amazon.com.br/Serious-Python-Black-Belt-Deployment-Scalability-ebook/dp/B074S4G1L5)
+
+## BIBLIOTECAS
+
+- [PyTorch](https://pytorch.org/)
+- [prophet](https://facebook.github.io/prophet/)
+- Spark
+- PySpark
+- xgbOOT
+- IPython
+- Scikit Learn
+- Keras
+- Skimage
+- Tensorflow
+- Dask
+- Dash
+- Plotly
+- Bokeh
+- D3js
+- MyPy
+- Numpy
+- SciPy
+- Seaborn
+- Conda
+- Jupyter
+- os
+- Logging
+- collections

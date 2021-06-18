@@ -1,4 +1,10 @@
-## FINALIZADOS
+# FINALIZADOS
+
+## LIVROS
+
+### BANCO DE DADOS
+
+- [Learning SQL, 3rd Edition - Alan Beaulieu](https://github.com/ferreiramr/livroLearningSQL_AlanBeaulieu)
 
 - [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)

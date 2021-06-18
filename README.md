@@ -2,33 +2,36 @@
 
 ## ESTUDANDO
 
-### CIÊNCIA DA COMPUTAÇÃO
+### PYTHON
 
-- [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz) - *Segunda / Quinta, 04h00*
-- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) - *Terça / Quinta, 06h30h*
-- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) - *Segunda / Quarta, 06h30h*
-- [Alura](https://cursos.alura.com.br/) - *Segunda  / Terça / Quarta / Quinta / 17h00*
+- [Learning Python - Mark Lutz](https://github.com/ferreiramr/livroLearningPython_markLutz) - *Segunda / Quinta - 03h30*
 
-### BUSINESS INTELLIGENCE
+- [Kivy Course - Create Python Games and Mobile Apps](https://www.youtube.com/watch?v=l8Imtec4ReQ) - *Segunda / Quinta - 05h30*
 
-- [Python for Data Analysis- Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney) - *Segunda / Quinta, 10h30*
-- [Learning SQL, 3rd Edition - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) - *Terça / Quinta, 10h30*
+### ALGORITMOS
 
-### MATEMÁTICA
+- [Introduction to Computation and Programming Using Python](https://www.amazon.com/gp/product/B08C6YH4XK/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) *Terça / Sexta - 03h30*
+- [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) - *Terça / Sexta - 05h30*
 
-- [Cálculo I - USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) - *Terça / Quinta, 03h30*
-- [Álgebra Linear 1 - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI) *Segunda / Terça, 03h30*
+### CIÊNCIA DE DADOS
 
-### PROJETOS PRÁTICOS
+- [Intro to Data Science - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn) - *Quarta / Sábado - 03h30*
+- [Python for Data Analysis- Wes McKinney](https://github.com/ferreiramr/livroPythonForDataAnalysis_WesMcKinney) - *Quarta / Sábado - 05h30*
 
- - [Entendendo e analisando os dados da Covid no Brasil](#) *Domingo*
+### APIs
+
+- [FastAPI](https://fastapi.tiangolo.com/) *Segunda / Quinta - 19h*
+- [Starlette](https://www.starlette.io/) *Terça / Sexta - 19h*
+- [Pydantic](https://pydantic-docs.helpmanual.io/) *Quarta / Sábado - 19h*
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
-- [Atividades: Práticas de ensino](#) - *Sexta, 15h00*  
-- [Práticas de Leitura e Escrita Acadêmicas | Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ) - *Sexta, 17h00*
+- [Atividades: Práticas de ensino](#) *Sábado - 08h*
+- [Práticas de Leitura e Escrita Acadêmicas - Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ) - *Sábado 11h00*
 
 ## ENTERTERIMENTTO
+
+*Entre os pomodoros*
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/videos?view=0&sort=da&flow=grid)
 - [Study Hall: Data Literacy](https://www.youtube.com/playlist?list=PLNrrxHpJhC8m_ifiOWl1hquDmdgvcviOt)
@@ -36,46 +39,20 @@
 
 ## BACKLOG PRIORIZADO
 
+### PYTHON
+
+- [Python Cookbook, 3rd Edition](https://github.com/ferreiramr/livroPythonCookbook_DavidBeazley-BrianJones)
+- [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
+
 ### CIÊNCIA DA COMPUTAÇÃO
 
-- [Learning pandas](https://www.oreilly.com/library/view/learning-pandas-/9781787123137/)
-- [Pandas 1.x Cookbook](https://www.oreilly.com/library/view/pandas-1x-cookbook/9781839213106/)
-- [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
-- [Thinking in Pandas: How to Use the Python Data Analysis Library the Right Way](https://www.oreilly.com/library/view/thinking-in-pandas/9781484258392/)
-- [Pandas for Everyone: Python Data Analysis](https://www.oreilly.com/library/view/pandas-for-everyone/9780134547046/)
 - [Classic Computer Science Problems in Python](https://www.amazon.com.br/Classic-Computer-Science-Problems-Python/dp/1617295981/ref=pd_sim_3?pd_rd_w=w6y03&pf_rd_p=d2883ac0-cb76-4340-aab4-ffa3314b9318&pf_rd_r=8N1NC91ZB7NYCARB78TG&pd_rd_r=42e95269-ca8b-453a-bc6d-e1714578f8fd&pd_rd_wg=o9vTY&pd_rd_i=1617295981&psc=1)
 - [Think Complexity: Complexity Science and Computational Modeling](https://www.amazon.com.br/Think-Complexity-Allen-B-Downey/dp/1449314635)
     - [Allen Downey]http://www.allendowney.com/wp/
 
-### BUSINESS INTELLIGENCE
-
-- [SQL for Data Analysis -  Cathy Tanimura](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
-- [SQL Cookbook, 2nd Edition - Anthony Molinaro, Robert de Graaf](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
-- [Practical SQL - Anthony DeBarros](https://www.oreilly.com/library/view/practical-sql/9781492067580/)
-- [Data Mining for Business Analytics](https://www.oreilly.com/library/view/data-mining-for/9781119549840/)
-
-### MATEMÁTICA
-
-- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha)
-- [Math Adventures with Python](https://www.oreilly.com/library/view/math-adventures-with/9781492071228/)
-- [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
-- [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
-- [A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics](https://www.oreilly.com/library/view/a-python-data/9781484263990/)
-
 ### GRADUAÇÃO EM MATEMÁTICA
 
+- [Método Lógico para Redação Científica: bases e aplicação](https://www.youtube.com/playlist?list=PLMmWegTl-vzV7ScJqOiXI-p0QamOE8hBy)
 - [Tópicos de Epistemologia e Didática | Aulas USP](https://www.youtube.com/watch?v=YqbAHG3Fs44&list=PLAudUnJeNg4tTpuOqi-_2qs4LmZ1DJUXK)
 - [Graduação em Matemática na Unip](https://ava.ead.unip.br/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_25_1)
-- [Método Lógico para Redação Científica: bases e aplicação](https://www.youtube.com/playlist?list=PLMmWegTl-vzV7ScJqOiXI-p0QamOE8hBy)
 - [IGVEC](https://igvec.com/clube/)
-
-## POSSÍVEIS PROJETOS FUTUROS
-
-- Pós graduação em BI
-- Pós graduação em Banco de Dados
-
-## POSSÍVEIS COMPRAS FUTURAS
-
-- [GenioDesks - mesas com regulagem de altura](https://www.geniodesks.com.br/)
-- [Bolsas de couro](https://www.nordweg.com/)
-

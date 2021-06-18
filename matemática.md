@@ -1,7 +1,17 @@
 # MATEMÁTICA - BACKLOG NÃO PRIORIZADO
 
+## PRIORIZADO
+
+- [Doing Math with Python](https://github.com/ferreiramr/livroDoingMathWithPython_AmitSaha)
+- [Math Adventures with Python](https://www.oreilly.com/library/view/math-adventures-with/9781492071228/)
+- [Practical Statistics for Data Scientists, 2nd Edition](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [Statistics for Data Science Full Course - Probability and Statistics for Engineers - Great Learning](https://github.com/ferreiramr/notasDeEstudos)
+- [A Python Data Analyst’s Toolkit: Learn Python and Python-based Libraries with Applications in Data Analysis and Statistics](https://www.oreilly.com/library/view/a-python-data/9781484263990/)
+
+
 ## ÁLGEBRA LINEAR
 
+- [Álgebra Linear 1 - USP](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 - [Álgebra Linear - UFRJ 2018](https://www.youtube.com/playlist?list=PLsVKfJEcnnr1VjFhhD4btJip_dQ5pI81n)
 - [Álgebra Linear - Univesp 2018](https://www.youtube.com/playlist?list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr)
 - [Álgebra Linear IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTSE0DFoq4es_iMvjlCeG8pP)
@@ -42,6 +52,7 @@
 
 ## CÁCULO
 
+- [Cálculo I - USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx)
 - [mooculus](https://mooculus.osu.edu/)
 - [Cálculo I - Unicamp](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B)
 - [Cálculo I - Univesp](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
@@ -52,3 +63,4 @@
 
 - [Practical Discrete Mathematics](https://www.oreilly.com/library/view/practical-discrete-mathematics/9781838983147/)
 - [MIT 6.042J Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+
