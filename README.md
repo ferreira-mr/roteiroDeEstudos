@@ -10,7 +10,7 @@
 
 ### ALGORITMOS
 
-- [Introduction to Computation and Programming Using Python](https://www.amazon.com/gp/product/B08C6YH4XK/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) *Terça / Sexta - 03h30*
+- [Introduction to Computation and Programming Using Python](https://www.amazon.com/gp/product/B08C6YH4XK/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) - *Terça / Sexta - 03h30*
 - [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) - *Terça / Sexta - 05h30*
 
 ### CIÊNCIA DE DADOS
@@ -20,13 +20,13 @@
 
 ### APIs
 
-- [FastAPI](https://fastapi.tiangolo.com/) *Segunda / Quinta - 19h*
-- [Starlette](https://www.starlette.io/) *Terça / Sexta - 19h*
-- [Pydantic](https://pydantic-docs.helpmanual.io/) *Quarta / Sábado - 19h*
+- [FastAPI](https://fastapi.tiangolo.com/) - *Segunda / Quinta - 19h*
+- [Starlette](https://www.starlette.io/) - *Terça / Sexta - 19h*
+- [Pydantic](https://pydantic-docs.helpmanual.io/) - *Quarta / Sábado - 19h*
 
 ### GRADUAÇÃO EM MATEMÁTICA
 
-- [Atividades: Práticas de ensino](#) *Sábado - 08h*
+- [Atividades: Práticas de ensino](#) - *Sábado - 08h*
 - [Práticas de Leitura e Escrita Acadêmicas - Aulas USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4vWJhEJ_da26C-QW5qiS7uZ) - *Sábado 11h00*
 
 ## ENTERTERIMENTTO
