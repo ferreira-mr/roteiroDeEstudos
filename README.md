@@ -3,29 +3,28 @@
 ## ESTUDANDO
 
 ### UX / UI
-- [Figma](https://cursos.alura.com.br/formacao-figma)
+
 
 ### DART / FLUTTER
-- [web.dev Dart](https://dart.dev/guides)
-- [web.dev Flutter](https://flutter.dev/)
+- [Doc Dart](https://dart.dev/guides)
+- [Doc Flutter](https://flutter.dev/)
 
 ### HTML
- - [web.dev HTML](https://web.dev/learn/html)
+ - [Doc Web HTML](https://web.dev/learn/html)
 
 ### CSS
- - [web.dev CSS](https://web.dev/learn/css)
+ - [Doc CSS](https://web.dev/learn/css)
 
 ### JAVASCRIPT
- - [web.dev Javascript](https://web.dev/learn/javascript)
+ - [Doc Javascript](https://web.dev/learn/javascript)
 
 
 ## BACKLOG
 
 ### UX / UI
-- [Design visual na prática](https://cursos.alura.com.br/formacao-design-visual-pratica)
-- [Design System](https://cursos.alura.com.br/formacao-design-system)
 - [Fundamentos do Design Visual](https://cursos.alura.com.br/formacao-design-visual)
 - [UI Design: construindo um produto digital](https://cursos.alura.com.br/formacao-ui-design-construindo-produto-digital)
+- [Design System](https://cursos.alura.com.br/formacao-design-system)
 - [Desenvolvimento de Carreira em UX](https://cursos.alura.com.br/formacao-desenvolvimento-carreira-ux)
 - [UX Design](https://cursos.alura.com.br/formacao-ux)
 - [UX Design: coletar e analisar dados de um produto](https://cursos.alura.com.br/formacao-ux-design-coletar-analisar-dados-produto)
