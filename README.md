@@ -3,7 +3,7 @@
 ## ESTUDANDO
 
 ### UX / UI
-
+- [Fundamentos do Design Visual](https://cursos.alura.com.br/formacao-design-visual)
 
 ### DART / FLUTTER
 - [Doc Dart](https://dart.dev/guides)
@@ -22,7 +22,6 @@
 ## BACKLOG
 
 ### UX / UI
-- [Fundamentos do Design Visual](https://cursos.alura.com.br/formacao-design-visual)
 - [UI Design: construindo um produto digital](https://cursos.alura.com.br/formacao-ui-design-construindo-produto-digital)
 - [Design System](https://cursos.alura.com.br/formacao-design-system)
 - [Desenvolvimento de Carreira em UX](https://cursos.alura.com.br/formacao-desenvolvimento-carreira-ux)
