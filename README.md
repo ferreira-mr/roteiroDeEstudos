@@ -11,6 +11,7 @@
 
 ### HTML
  - [Doc Web HTML](https://web.dev/learn/html)
+   - [Parei aqui](https://web.dev/learn/html/headings-and-sections?hl=pt-br&authuser=1#site_header)
 
 ### CSS
  - [Doc CSS](https://web.dev/learn/css)
@@ -34,6 +35,11 @@
 - [Service Design na prática](https://cursos.alura.com.br/formacao-service-design)
 - [Arquitetura da Informação](https://cursos.alura.com.br/formacao-arquitetura-informacao)
 - [Adobe XD](https://cursos.alura.com.br/formacao-ui-adobe-xd)
+- [Digital Accessibility](https://dequeuniversity.com/)
+- [HTML Living Standard](https://html.spec.whatwg.org/)
+- [The Open Graph protocol](https://ogp.me/)
+- [Mozilla MDM](https://developer.mozilla.org/pt-BR/)
+- [WAI-ARIA](https://w3c.github.io/aria/#introduction)
 
 ### PYTHON
 - [Python in a Nutshell, 4th Edition](https://www.oreilly.com/library/view/python-in-a/9781098113544/)
